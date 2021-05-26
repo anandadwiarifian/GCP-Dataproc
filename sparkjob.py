@@ -25,6 +25,7 @@ df = spark.read.json(data,
                 multiLine='true' 
                 # ,schema="dateFor DATE, China INT64, India INT64, Indonesia INT64, Italy INT64, United Kingdom INT64, United States INT64"
                 )
+                
 
 # list for columns subtractions
 colDiffs = []
