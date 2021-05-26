@@ -1,0 +1,4412 @@
+[
+ {
+   "dateFor": "2020-01-22",
+   "China": 548,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 1
+ },
+ {
+   "dateFor": "2020-01-23",
+   "China": 641,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 1
+ },
+ {
+   "dateFor": "2020-01-24",
+   "China": 918,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 2
+ },
+ {
+   "dateFor": "2020-01-25",
+   "China": 1401,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 2
+ },
+ {
+   "dateFor": "2020-01-26",
+   "China": 2067,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 5
+ },
+ {
+   "dateFor": "2020-01-27",
+   "China": 2869,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 5
+ },
+ {
+   "dateFor": "2020-01-28",
+   "China": 5501,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 5
+ },
+ {
+   "dateFor": "2020-01-29",
+   "China": 6077,
+   "India": null,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 6
+ },
+ {
+   "dateFor": "2020-01-30",
+   "China": 8131,
+   "India": 1,
+   "Indonesia": null,
+   "Italy": null,
+   "United Kingdom": null,
+   "United States": 6
+ },
+ {
+   "dateFor": "2020-01-31",
+   "China": 9790,
+   "India": 1,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 2,
+   "United States": 8
+ },
+ {
+   "dateFor": "2020-02-01",
+   "China": 11878,
+   "India": 1,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 2,
+   "United States": 8
+ },
+ {
+   "dateFor": "2020-02-02",
+   "China": 16615,
+   "India": 2,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 2,
+   "United States": 8
+ },
+ {
+   "dateFor": "2020-02-03",
+   "China": 19701,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 8,
+   "United States": 11
+ },
+ {
+   "dateFor": "2020-02-04",
+   "China": 23690,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 8,
+   "United States": 11
+ },
+ {
+   "dateFor": "2020-02-05",
+   "China": 27419,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 9,
+   "United States": 11
+ },
+ {
+   "dateFor": "2020-02-06",
+   "China": 30563,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 2,
+   "United Kingdom": 9,
+   "United States": 12
+ },
+ {
+   "dateFor": "2020-02-07",
+   "China": 34085,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 9,
+   "United States": 12
+ },
+ {
+   "dateFor": "2020-02-08",
+   "China": 36788,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 13,
+   "United States": 12
+ },
+ {
+   "dateFor": "2020-02-09",
+   "China": 39800,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 14,
+   "United States": 12
+ },
+ {
+   "dateFor": "2020-02-10",
+   "China": 42316,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 14,
+   "United States": 12
+ },
+ {
+   "dateFor": "2020-02-11",
+   "China": 44337,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 15,
+   "United States": 13
+ },
+ {
+   "dateFor": "2020-02-12",
+   "China": 44709,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 16,
+   "United States": 13
+ },
+ {
+   "dateFor": "2020-02-13",
+   "China": 59842,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 17,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-14",
+   "China": 66302,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 18,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-15",
+   "China": 68357,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 18,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-16",
+   "China": 70456,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 18,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-17",
+   "China": 72374,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 19,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-18",
+   "China": 74149,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 19,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-19",
+   "China": 74556,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 20,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-20",
+   "China": 75009,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 3,
+   "United Kingdom": 22,
+   "United States": 14
+ },
+ {
+   "dateFor": "2020-02-21",
+   "China": 75482,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 20,
+   "United Kingdom": 23,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-22",
+   "China": 76932,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 62,
+   "United Kingdom": 23,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-23",
+   "China": 76948,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 155,
+   "United Kingdom": 28,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-24",
+   "China": 77162,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 229,
+   "United Kingdom": 30,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-25",
+   "China": 77670,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 322,
+   "United Kingdom": 34,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-26",
+   "China": 78075,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 453,
+   "United Kingdom": 37,
+   "United States": 16
+ },
+ {
+   "dateFor": "2020-02-27",
+   "China": 78508,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 655,
+   "United Kingdom": 44,
+   "United States": 17
+ },
+ {
+   "dateFor": "2020-02-28",
+   "China": 78834,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 888,
+   "United Kingdom": 56,
+   "United States": 17
+ },
+ {
+   "dateFor": "2020-02-29",
+   "China": 79261,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 1128,
+   "United Kingdom": 61,
+   "United States": 25
+ },
+ {
+   "dateFor": "2020-03-01",
+   "China": 79836,
+   "India": 3,
+   "Indonesia": null,
+   "Italy": 1694,
+   "United Kingdom": 94,
+   "United States": 32
+ },
+ {
+   "dateFor": "2020-03-02",
+   "China": 80036,
+   "India": 5,
+   "Indonesia": 2,
+   "Italy": 2036,
+   "United Kingdom": 134,
+   "United States": 55
+ },
+ {
+   "dateFor": "2020-03-03",
+   "China": 80161,
+   "India": 5,
+   "Indonesia": 2,
+   "Italy": 2502,
+   "United Kingdom": 189,
+   "United States": 74
+ },
+ {
+   "dateFor": "2020-03-04",
+   "China": 80281,
+   "India": 28,
+   "Indonesia": 2,
+   "Italy": 3089,
+   "United Kingdom": 246,
+   "United States": 107
+ },
+ {
+   "dateFor": "2020-03-05",
+   "China": 80432,
+   "India": 30,
+   "Indonesia": 2,
+   "Italy": 3858,
+   "United Kingdom": 295,
+   "United States": 184
+ },
+ {
+   "dateFor": "2020-03-06",
+   "China": 80583,
+   "India": 31,
+   "Indonesia": 4,
+   "Italy": 4636,
+   "United Kingdom": 374,
+   "United States": 237
+ },
+ {
+   "dateFor": "2020-03-07",
+   "China": 80662,
+   "India": 34,
+   "Indonesia": 4,
+   "Italy": 5883,
+   "United Kingdom": 429,
+   "United States": 403
+ },
+ {
+   "dateFor": "2020-03-08",
+   "China": 80709,
+   "India": 39,
+   "Indonesia": 6,
+   "Italy": 7375,
+   "United Kingdom": 483,
+   "United States": 519
+ },
+ {
+   "dateFor": "2020-03-09",
+   "China": 80745,
+   "India": 43,
+   "Indonesia": 19,
+   "Italy": 9172,
+   "United Kingdom": 630,
+   "United States": 594
+ },
+ {
+   "dateFor": "2020-03-10",
+   "China": 80767,
+   "India": 56,
+   "Indonesia": 27,
+   "Italy": 10149,
+   "United Kingdom": 889,
+   "United States": 782
+ },
+ {
+   "dateFor": "2020-03-11",
+   "China": 80795,
+   "India": 62,
+   "Indonesia": 34,
+   "Italy": 12462,
+   "United Kingdom": 1301,
+   "United States": 1147
+ },
+ {
+   "dateFor": "2020-03-12",
+   "China": 80803,
+   "India": 73,
+   "Indonesia": 34,
+   "Italy": 15113,
+   "United Kingdom": 1790,
+   "United States": 1586
+ },
+ {
+   "dateFor": "2020-03-13",
+   "China": 80811,
+   "India": 82,
+   "Indonesia": 69,
+   "Italy": 17660,
+   "United Kingdom": 2270,
+   "United States": 2219
+ },
+ {
+   "dateFor": "2020-03-14",
+   "China": 80837,
+   "India": 102,
+   "Indonesia": 96,
+   "Italy": 21157,
+   "United Kingdom": 2634,
+   "United States": 2978
+ },
+ {
+   "dateFor": "2020-03-15",
+   "China": 80858,
+   "India": 113,
+   "Indonesia": 117,
+   "Italy": 24747,
+   "United Kingdom": 3077,
+   "United States": 3212
+ },
+ {
+   "dateFor": "2020-03-16",
+   "China": 80878,
+   "India": 119,
+   "Indonesia": 134,
+   "Italy": 27980,
+   "United Kingdom": 3692,
+   "United States": 4679
+ },
+ {
+   "dateFor": "2020-03-17",
+   "China": 80896,
+   "India": 142,
+   "Indonesia": 172,
+   "Italy": 31506,
+   "United Kingdom": 4462,
+   "United States": 6512
+ },
+ {
+   "dateFor": "2020-03-18",
+   "China": 80921,
+   "India": 156,
+   "Indonesia": 227,
+   "Italy": 35713,
+   "United Kingdom": 5468,
+   "United States": 9169
+ },
+ {
+   "dateFor": "2020-03-19",
+   "China": 80948,
+   "India": 194,
+   "Indonesia": 311,
+   "Italy": 41035,
+   "United Kingdom": 6534,
+   "United States": 13663
+ },
+ {
+   "dateFor": "2020-03-20",
+   "China": 80994,
+   "India": 244,
+   "Indonesia": 369,
+   "Italy": 47021,
+   "United Kingdom": 7792,
+   "United States": 20030
+ },
+ {
+   "dateFor": "2020-03-21",
+   "China": 81032,
+   "India": 330,
+   "Indonesia": 450,
+   "Italy": 53578,
+   "United Kingdom": 9007,
+   "United States": 26025
+ },
+ {
+   "dateFor": "2020-03-22",
+   "China": 81118,
+   "India": 396,
+   "Indonesia": 514,
+   "Italy": 59138,
+   "United Kingdom": 10395,
+   "United States": 34898
+ },
+ {
+   "dateFor": "2020-03-23",
+   "China": 81142,
+   "India": 499,
+   "Indonesia": 579,
+   "Italy": 63927,
+   "United Kingdom": 12744,
+   "United States": 46136
+ },
+ {
+   "dateFor": "2020-03-24",
+   "China": 81205,
+   "India": 536,
+   "Indonesia": 686,
+   "Italy": 69176,
+   "United Kingdom": 15126,
+   "United States": 56755
+ },
+ {
+   "dateFor": "2020-03-25",
+   "China": 81251,
+   "India": 657,
+   "Indonesia": 790,
+   "Italy": 74386,
+   "United Kingdom": 17843,
+   "United States": 68837
+ },
+ {
+   "dateFor": "2020-03-26",
+   "China": 81329,
+   "India": 727,
+   "Indonesia": 893,
+   "Italy": 80589,
+   "United Kingdom": 20970,
+   "United States": 86693
+ },
+ {
+   "dateFor": "2020-03-27",
+   "China": 81378,
+   "India": 887,
+   "Indonesia": 1046,
+   "Italy": 86498,
+   "United Kingdom": 24219,
+   "United States": 105383
+ },
+ {
+   "dateFor": "2020-03-28",
+   "China": 81438,
+   "India": 987,
+   "Indonesia": 1155,
+   "Italy": 92472,
+   "United Kingdom": 27062,
+   "United States": 125013
+ },
+ {
+   "dateFor": "2020-03-29",
+   "China": 81481,
+   "India": 1024,
+   "Indonesia": 1285,
+   "Italy": 97689,
+   "United Kingdom": 29954,
+   "United States": 143912
+ },
+ {
+   "dateFor": "2020-03-30",
+   "China": 81516,
+   "India": 1251,
+   "Indonesia": 1414,
+   "Italy": 101739,
+   "United Kingdom": 34281,
+   "United States": 165987
+ },
+ {
+   "dateFor": "2020-03-31",
+   "China": 81565,
+   "India": 1397,
+   "Indonesia": 1528,
+   "Italy": 105792,
+   "United Kingdom": 38815,
+   "United States": 192301
+ },
+ {
+   "dateFor": "2020-04-01",
+   "China": 81596,
+   "India": 1998,
+   "Indonesia": 1677,
+   "Italy": 110574,
+   "United Kingdom": 43789,
+   "United States": 224560
+ },
+ {
+   "dateFor": "2020-04-02",
+   "China": 81630,
+   "India": 2543,
+   "Indonesia": 1790,
+   "Italy": 115242,
+   "United Kingdom": 48718,
+   "United States": 256792
+ },
+ {
+   "dateFor": "2020-04-03",
+   "China": 81666,
+   "India": 2567,
+   "Indonesia": 1986,
+   "Italy": 119827,
+   "United Kingdom": 53699,
+   "United States": 289087
+ },
+ {
+   "dateFor": "2020-04-04",
+   "China": 81681,
+   "India": 3082,
+   "Indonesia": 2092,
+   "Italy": 124632,
+   "United Kingdom": 57772,
+   "United States": 321477
+ },
+ {
+   "dateFor": "2020-04-05",
+   "China": 81712,
+   "India": 3588,
+   "Indonesia": 2273,
+   "Italy": 128948,
+   "United Kingdom": 61422,
+   "United States": 351354
+ },
+ {
+   "dateFor": "2020-04-06",
+   "China": 81751,
+   "India": 4778,
+   "Indonesia": 2491,
+   "Italy": 132547,
+   "United Kingdom": 66738,
+   "United States": 382747
+ },
+ {
+   "dateFor": "2020-04-07",
+   "China": 81783,
+   "India": 5311,
+   "Indonesia": 2738,
+   "Italy": 135586,
+   "United Kingdom": 72224,
+   "United States": 413516
+ },
+ {
+   "dateFor": "2020-04-08",
+   "China": 81849,
+   "India": 5916,
+   "Indonesia": 2956,
+   "Italy": 139422,
+   "United Kingdom": 77387,
+   "United States": 444731
+ },
+ {
+   "dateFor": "2020-04-09",
+   "China": 81910,
+   "India": 6725,
+   "Indonesia": 3293,
+   "Italy": 143626,
+   "United Kingdom": 82293,
+   "United States": 480667
+ },
+ {
+   "dateFor": "2020-04-10",
+   "China": 81952,
+   "India": 7598,
+   "Indonesia": 3512,
+   "Italy": 147577,
+   "United Kingdom": 86660,
+   "United States": 515081
+ },
+ {
+   "dateFor": "2020-04-11",
+   "China": 82014,
+   "India": 8446,
+   "Indonesia": 3842,
+   "Italy": 152271,
+   "United Kingdom": 90273,
+   "United States": 544183
+ },
+ {
+   "dateFor": "2020-04-12",
+   "China": 82130,
+   "India": 9205,
+   "Indonesia": 4241,
+   "Italy": 156363,
+   "United Kingdom": 93812,
+   "United States": 571440
+ },
+ {
+   "dateFor": "2020-04-13",
+   "China": 82204,
+   "India": 10453,
+   "Indonesia": 4557,
+   "Italy": 159516,
+   "United Kingdom": 98017,
+   "United States": 598380
+ },
+ {
+   "dateFor": "2020-04-14",
+   "China": 82294,
+   "India": 11487,
+   "Indonesia": 4839,
+   "Italy": 162488,
+   "United Kingdom": 102365,
+   "United States": 627205
+ },
+ {
+   "dateFor": "2020-04-15",
+   "China": 82339,
+   "India": 12322,
+   "Indonesia": 5136,
+   "Italy": 165155,
+   "United Kingdom": 107465,
+   "United States": 652611
+ },
+ {
+   "dateFor": "2020-04-16",
+   "China": 82386,
+   "India": 13430,
+   "Indonesia": 5516,
+   "Italy": 168941,
+   "United Kingdom": 112808,
+   "United States": 682626
+ },
+ {
+   "dateFor": "2020-04-17",
+   "China": 82739,
+   "India": 14352,
+   "Indonesia": 5923,
+   "Italy": 172434,
+   "United Kingdom": 117798,
+   "United States": 715656
+ },
+ {
+   "dateFor": "2020-04-18",
+   "China": 82763,
+   "India": 15722,
+   "Indonesia": 6248,
+   "Italy": 175925,
+   "United Kingdom": 122534,
+   "United States": 743588
+ },
+ {
+   "dateFor": "2020-04-19",
+   "China": 82780,
+   "India": 17615,
+   "Indonesia": 6575,
+   "Italy": 178972,
+   "United Kingdom": 126394,
+   "United States": 769684
+ },
+ {
+   "dateFor": "2020-04-20",
+   "China": 82792,
+   "India": 18539,
+   "Indonesia": 6760,
+   "Italy": 181228,
+   "United Kingdom": 131260,
+   "United States": 799512
+ },
+ {
+   "dateFor": "2020-04-21",
+   "China": 82824,
+   "India": 20080,
+   "Indonesia": 7135,
+   "Italy": 183957,
+   "United Kingdom": 136035,
+   "United States": 825429
+ },
+ {
+   "dateFor": "2020-04-22",
+   "China": 82835,
+   "India": 21370,
+   "Indonesia": 7418,
+   "Italy": 187327,
+   "United Kingdom": 141540,
+   "United States": 854288
+ },
+ {
+   "dateFor": "2020-04-23",
+   "China": 82849,
+   "India": 23077,
+   "Indonesia": 7775,
+   "Italy": 189973,
+   "United Kingdom": 146708,
+   "United States": 887858
+ },
+ {
+   "dateFor": "2020-04-24",
+   "China": 82864,
+   "India": 24530,
+   "Indonesia": 8211,
+   "Italy": 192994,
+   "United Kingdom": 151689,
+   "United States": 920185
+ },
+ {
+   "dateFor": "2020-04-25",
+   "China": 82872,
+   "India": 26283,
+   "Indonesia": 8607,
+   "Italy": 195351,
+   "United Kingdom": 155453,
+   "United States": 950581
+ },
+ {
+   "dateFor": "2020-04-26",
+   "China": 82875,
+   "India": 27890,
+   "Indonesia": 8882,
+   "Italy": 197675,
+   "United Kingdom": 158926,
+   "United States": 977082
+ },
+ {
+   "dateFor": "2020-04-27",
+   "China": 82881,
+   "India": 29451,
+   "Indonesia": 9096,
+   "Italy": 199414,
+   "United Kingdom": 163630,
+   "United States": 1000785
+ },
+ {
+   "dateFor": "2020-04-28",
+   "China": 82903,
+   "India": 31324,
+   "Indonesia": 9511,
+   "Italy": 201505,
+   "United Kingdom": 168357,
+   "United States": 1025362
+ },
+ {
+   "dateFor": "2020-04-29",
+   "China": 82907,
+   "India": 33062,
+   "Indonesia": 9771,
+   "Italy": 203591,
+   "United Kingdom": 173807,
+   "United States": 1051800
+ },
+ {
+   "dateFor": "2020-04-30",
+   "China": 82919,
+   "India": 34863,
+   "Indonesia": 10118,
+   "Italy": 205463,
+   "United Kingdom": 178771,
+   "United States": 1081020
+ },
+ {
+   "dateFor": "2020-05-01",
+   "China": 82920,
+   "India": 37257,
+   "Indonesia": 10551,
+   "Italy": 207428,
+   "United Kingdom": 183501,
+   "United States": 1115946
+ },
+ {
+   "dateFor": "2020-05-02",
+   "China": 82920,
+   "India": 39699,
+   "Indonesia": 10843,
+   "Italy": 209328,
+   "United Kingdom": 186731,
+   "United States": 1143296
+ },
+ {
+   "dateFor": "2020-05-03",
+   "China": 82925,
+   "India": 42505,
+   "Indonesia": 11192,
+   "Italy": 210717,
+   "United Kingdom": 189708,
+   "United States": 1167593
+ },
+ {
+   "dateFor": "2020-05-04",
+   "China": 82926,
+   "India": 46437,
+   "Indonesia": 11587,
+   "Italy": 211938,
+   "United Kingdom": 193091,
+   "United States": 1191678
+ },
+ {
+   "dateFor": "2020-05-05",
+   "China": 82928,
+   "India": 49400,
+   "Indonesia": 12071,
+   "Italy": 213013,
+   "United Kingdom": 196780,
+   "United States": 1216209
+ },
+ {
+   "dateFor": "2020-05-06",
+   "China": 82930,
+   "India": 52987,
+   "Indonesia": 12438,
+   "Italy": 214457,
+   "United Kingdom": 200616,
+   "United States": 1240769
+ },
+ {
+   "dateFor": "2020-05-07",
+   "China": 82931,
+   "India": 56351,
+   "Indonesia": 12776,
+   "Italy": 215858,
+   "United Kingdom": 204387,
+   "United States": 1268180
+ },
+ {
+   "dateFor": "2020-05-08",
+   "China": 82932,
+   "India": 59695,
+   "Indonesia": 13112,
+   "Italy": 217185,
+   "United Kingdom": 207439,
+   "United States": 1295019
+ },
+ {
+   "dateFor": "2020-05-09",
+   "China": 82946,
+   "India": 62808,
+   "Indonesia": 13645,
+   "Italy": 218268,
+   "United Kingdom": 209589,
+   "United States": 1320155
+ },
+ {
+   "dateFor": "2020-05-10",
+   "China": 82963,
+   "India": 67161,
+   "Indonesia": 14032,
+   "Italy": 219070,
+   "United Kingdom": 211911,
+   "United States": 1339022
+ },
+ {
+   "dateFor": "2020-05-11",
+   "China": 82964,
+   "India": 70768,
+   "Indonesia": 14265,
+   "Italy": 219814,
+   "United Kingdom": 215500,
+   "United States": 1358293
+ },
+ {
+   "dateFor": "2020-05-12",
+   "China": 82971,
+   "India": 74292,
+   "Indonesia": 14749,
+   "Italy": 221216,
+   "United Kingdom": 218895,
+   "United States": 1381241
+ },
+ {
+   "dateFor": "2020-05-13",
+   "China": 82974,
+   "India": 78055,
+   "Indonesia": 15438,
+   "Italy": 222104,
+   "United Kingdom": 222195,
+   "United States": 1401649
+ },
+ {
+   "dateFor": "2020-05-14",
+   "China": 82978,
+   "India": 81997,
+   "Indonesia": 16006,
+   "Italy": 223096,
+   "United Kingdom": 224813,
+   "United States": 1428467
+ },
+ {
+   "dateFor": "2020-05-15",
+   "China": 82986,
+   "India": 85784,
+   "Indonesia": 16496,
+   "Italy": 223885,
+   "United Kingdom": 227334,
+   "United States": 1453214
+ },
+ {
+   "dateFor": "2020-05-16",
+   "China": 82992,
+   "India": 90648,
+   "Indonesia": 17025,
+   "Italy": 224760,
+   "United Kingdom": 229406,
+   "United States": 1477373
+ },
+ {
+   "dateFor": "2020-05-17",
+   "China": 82999,
+   "India": 95698,
+   "Indonesia": 17514,
+   "Italy": 225435,
+   "United Kingdom": 231232,
+   "United States": 1495736
+ },
+ {
+   "dateFor": "2020-05-18",
+   "China": 83008,
+   "India": 100328,
+   "Indonesia": 18010,
+   "Italy": 225886,
+   "United Kingdom": 233809,
+   "United States": 1518126
+ },
+ {
+   "dateFor": "2020-05-19",
+   "China": 83008,
+   "India": 106475,
+   "Indonesia": 18496,
+   "Italy": 226699,
+   "United Kingdom": 236867,
+   "United States": 1539133
+ },
+ {
+   "dateFor": "2020-05-20",
+   "China": 83008,
+   "India": 112028,
+   "Indonesia": 19189,
+   "Italy": 227364,
+   "United Kingdom": 239579,
+   "United States": 1561830
+ },
+ {
+   "dateFor": "2020-05-21",
+   "China": 83008,
+   "India": 118226,
+   "Indonesia": 20162,
+   "Italy": 228006,
+   "United Kingdom": 242133,
+   "United States": 1587596
+ },
+ {
+   "dateFor": "2020-05-22",
+   "China": 83016,
+   "India": 124794,
+   "Indonesia": 20796,
+   "Italy": 228658,
+   "United Kingdom": 244174,
+   "United States": 1611253
+ },
+ {
+   "dateFor": "2020-05-23",
+   "China": 83019,
+   "India": 131423,
+   "Indonesia": 21745,
+   "Italy": 229327,
+   "United Kingdom": 245682,
+   "United States": 1632364
+ },
+ {
+   "dateFor": "2020-05-24",
+   "China": 83030,
+   "India": 138536,
+   "Indonesia": 22271,
+   "Italy": 229858,
+   "United Kingdom": 247037,
+   "United States": 1652431
+ },
+ {
+   "dateFor": "2020-05-25",
+   "China": 83037,
+   "India": 144950,
+   "Indonesia": 22750,
+   "Italy": 230158,
+   "United Kingdom": 248650,
+   "United States": 1671104
+ },
+ {
+   "dateFor": "2020-05-26",
+   "China": 83038,
+   "India": 150793,
+   "Indonesia": 23165,
+   "Italy": 230555,
+   "United Kingdom": 250309,
+   "United States": 1690754
+ },
+ {
+   "dateFor": "2020-05-27",
+   "China": 83040,
+   "India": 158086,
+   "Indonesia": 23851,
+   "Italy": 231139,
+   "United Kingdom": 252118,
+   "United States": 1709303
+ },
+ {
+   "dateFor": "2020-05-28",
+   "China": 83040,
+   "India": 165386,
+   "Indonesia": 24538,
+   "Italy": 231732,
+   "United Kingdom": 253854,
+   "United States": 1731625
+ },
+ {
+   "dateFor": "2020-05-29",
+   "China": 83044,
+   "India": 173491,
+   "Indonesia": 25216,
+   "Italy": 232248,
+   "United Kingdom": 255362,
+   "United States": 1756098
+ },
+ {
+   "dateFor": "2020-05-30",
+   "China": 83046,
+   "India": 181827,
+   "Indonesia": 25773,
+   "Italy": 232664,
+   "United Kingdom": 256469,
+   "United States": 1779731
+ },
+ {
+   "dateFor": "2020-05-31",
+   "China": 83062,
+   "India": 190609,
+   "Indonesia": 26473,
+   "Italy": 232997,
+   "United Kingdom": 257539,
+   "United States": 1798718
+ },
+ {
+   "dateFor": "2020-06-01",
+   "China": 83067,
+   "India": 198370,
+   "Indonesia": 26940,
+   "Italy": 233197,
+   "United Kingdom": 258983,
+   "United States": 1816154
+ },
+ {
+   "dateFor": "2020-06-02",
+   "China": 83068,
+   "India": 207191,
+   "Indonesia": 27549,
+   "Italy": 233515,
+   "United Kingdom": 260453,
+   "United States": 1837656
+ },
+ {
+   "dateFor": "2020-06-03",
+   "China": 83067,
+   "India": 216824,
+   "Indonesia": 28233,
+   "Italy": 233836,
+   "United Kingdom": 261802,
+   "United States": 1857511
+ },
+ {
+   "dateFor": "2020-06-04",
+   "China": 83072,
+   "India": 226713,
+   "Indonesia": 28818,
+   "Italy": 234013,
+   "United Kingdom": 263040,
+   "United States": 1879150
+ },
+ {
+   "dateFor": "2020-06-05",
+   "China": 83075,
+   "India": 236184,
+   "Indonesia": 29521,
+   "Italy": 234531,
+   "United Kingdom": 264150,
+   "United States": 1904550
+ },
+ {
+   "dateFor": "2020-06-06",
+   "China": 83081,
+   "India": 246622,
+   "Indonesia": 30514,
+   "Italy": 234801,
+   "United Kingdom": 264944,
+   "United States": 1925710
+ },
+ {
+   "dateFor": "2020-06-07",
+   "China": 83085,
+   "India": 257486,
+   "Indonesia": 31186,
+   "Italy": 234998,
+   "United Kingdom": 265662,
+   "United States": 1943626
+ },
+ {
+   "dateFor": "2020-06-08",
+   "China": 83088,
+   "India": 265928,
+   "Indonesia": 32033,
+   "Italy": 235278,
+   "United Kingdom": 266756,
+   "United States": 1961263
+ },
+ {
+   "dateFor": "2020-06-09",
+   "China": 83091,
+   "India": 276146,
+   "Indonesia": 33076,
+   "Italy": 235561,
+   "United Kingdom": 267915,
+   "United States": 1979647
+ },
+ {
+   "dateFor": "2020-06-10",
+   "China": 83102,
+   "India": 286605,
+   "Indonesia": 34316,
+   "Italy": 235763,
+   "United Kingdom": 269101,
+   "United States": 2000757
+ },
+ {
+   "dateFor": "2020-06-11",
+   "China": 83109,
+   "India": 297535,
+   "Indonesia": 35295,
+   "Italy": 236142,
+   "United Kingdom": 270108,
+   "United States": 2023890
+ },
+ {
+   "dateFor": "2020-06-12",
+   "China": 83120,
+   "India": 308993,
+   "Indonesia": 36406,
+   "Italy": 236305,
+   "United Kingdom": 271162,
+   "United States": 2048756
+ },
+ {
+   "dateFor": "2020-06-13",
+   "China": 83177,
+   "India": 320922,
+   "Indonesia": 37420,
+   "Italy": 236651,
+   "United Kingdom": 272050,
+   "United States": 2073964
+ },
+ {
+   "dateFor": "2020-06-14",
+   "China": 83226,
+   "India": 332424,
+   "Indonesia": 38277,
+   "Italy": 236989,
+   "United Kingdom": 272857,
+   "United States": 2092912
+ },
+ {
+   "dateFor": "2020-06-15",
+   "China": 83266,
+   "India": 343091,
+   "Indonesia": 39294,
+   "Italy": 237290,
+   "United Kingdom": 273888,
+   "United States": 2112731
+ },
+ {
+   "dateFor": "2020-06-16",
+   "China": 83310,
+   "India": 354065,
+   "Indonesia": 40400,
+   "Italy": 237500,
+   "United Kingdom": 274971,
+   "United States": 2136401
+ },
+ {
+   "dateFor": "2020-06-17",
+   "China": 83338,
+   "India": 366946,
+   "Indonesia": 41431,
+   "Italy": 237828,
+   "United Kingdom": 275970,
+   "United States": 2163465
+ },
+ {
+   "dateFor": "2020-06-18",
+   "China": 83370,
+   "India": 380532,
+   "Indonesia": 42762,
+   "Italy": 238159,
+   "United Kingdom": 276990,
+   "United States": 2191991
+ },
+ {
+   "dateFor": "2020-06-19",
+   "China": 83370,
+   "India": 395048,
+   "Indonesia": 43803,
+   "Italy": 238011,
+   "United Kingdom": 277974,
+   "United States": 2223553
+ },
+ {
+   "dateFor": "2020-06-20",
+   "China": 83425,
+   "India": 410451,
+   "Indonesia": 45029,
+   "Italy": 238275,
+   "United Kingdom": 278640,
+   "United States": 2255823
+ },
+ {
+   "dateFor": "2020-06-21",
+   "China": 83441,
+   "India": 425282,
+   "Indonesia": 45891,
+   "Italy": 238499,
+   "United Kingdom": 279264,
+   "United States": 2280971
+ },
+ {
+   "dateFor": "2020-06-22",
+   "China": 83463,
+   "India": 440215,
+   "Indonesia": 46845,
+   "Italy": 238720,
+   "United Kingdom": 280156,
+   "United States": 2313123
+ },
+ {
+   "dateFor": "2020-06-23",
+   "China": 83476,
+   "India": 456183,
+   "Indonesia": 47896,
+   "Italy": 238833,
+   "United Kingdom": 281038,
+   "United States": 2350198
+ },
+ {
+   "dateFor": "2020-06-24",
+   "China": 83494,
+   "India": 473105,
+   "Indonesia": 49009,
+   "Italy": 239410,
+   "United Kingdom": 281815,
+   "United States": 2386074
+ },
+ {
+   "dateFor": "2020-06-25",
+   "China": 83508,
+   "India": 490401,
+   "Indonesia": 50187,
+   "Italy": 239706,
+   "United Kingdom": 282512,
+   "United States": 2426391
+ },
+ {
+   "dateFor": "2020-06-26",
+   "China": 83529,
+   "India": 508953,
+   "Indonesia": 51427,
+   "Italy": 239961,
+   "United Kingdom": 283151,
+   "United States": 2472385
+ },
+ {
+   "dateFor": "2020-06-27",
+   "China": 83546,
+   "India": 528859,
+   "Indonesia": 52812,
+   "Italy": 240136,
+   "United Kingdom": 283785,
+   "United States": 2513731
+ },
+ {
+   "dateFor": "2020-06-28",
+   "China": 83558,
+   "India": 548318,
+   "Indonesia": 54010,
+   "Italy": 240310,
+   "United Kingdom": 284192,
+   "United States": 2554461
+ },
+ {
+   "dateFor": "2020-06-29",
+   "China": 83577,
+   "India": 566840,
+   "Indonesia": 55092,
+   "Italy": 240436,
+   "United Kingdom": 284812,
+   "United States": 2595744
+ },
+ {
+   "dateFor": "2020-06-30",
+   "China": 83580,
+   "India": 585481,
+   "Indonesia": 56385,
+   "Italy": 240578,
+   "United Kingdom": 285216,
+   "United States": 2642174
+ },
+ {
+   "dateFor": "2020-07-01",
+   "China": 83583,
+   "India": 604641,
+   "Indonesia": 57770,
+   "Italy": 240760,
+   "United Kingdom": 285279,
+   "United States": 2693993
+ },
+ {
+   "dateFor": "2020-07-02",
+   "China": 83588,
+   "India": 625544,
+   "Indonesia": 59394,
+   "Italy": 240961,
+   "United Kingdom": 285285,
+   "United States": 2750622
+ },
+ {
+   "dateFor": "2020-07-03",
+   "China": 83591,
+   "India": 648315,
+   "Indonesia": 60695,
+   "Italy": 241184,
+   "United Kingdom": 285787,
+   "United States": 2801983
+ },
+ {
+   "dateFor": "2020-07-04",
+   "China": 83599,
+   "India": 673165,
+   "Indonesia": 62142,
+   "Italy": 241419,
+   "United Kingdom": 286412,
+   "United States": 2847664
+ },
+ {
+   "dateFor": "2020-07-05",
+   "China": 83603,
+   "India": 697413,
+   "Indonesia": 63749,
+   "Italy": 241611,
+   "United Kingdom": 286931,
+   "United States": 2898432
+ },
+ {
+   "dateFor": "2020-07-06",
+   "China": 83604,
+   "India": 719664,
+   "Indonesia": 64958,
+   "Italy": 241819,
+   "United Kingdom": 287290,
+   "United States": 2941517
+ },
+ {
+   "dateFor": "2020-07-07",
+   "China": 83618,
+   "India": 742417,
+   "Indonesia": 66226,
+   "Italy": 241956,
+   "United Kingdom": 287874,
+   "United States": 3002171
+ },
+ {
+   "dateFor": "2020-07-08",
+   "China": 83627,
+   "India": 767296,
+   "Indonesia": 68079,
+   "Italy": 242149,
+   "United Kingdom": 288511,
+   "United States": 3062290
+ },
+ {
+   "dateFor": "2020-07-09",
+   "China": 83627,
+   "India": 793802,
+   "Indonesia": 70736,
+   "Italy": 242363,
+   "United Kingdom": 289154,
+   "United States": 3124786
+ },
+ {
+   "dateFor": "2020-07-10",
+   "China": 83627,
+   "India": 820916,
+   "Indonesia": 72347,
+   "Italy": 242639,
+   "United Kingdom": 289678,
+   "United States": 3192841
+ },
+ {
+   "dateFor": "2020-07-11",
+   "China": 83640,
+   "India": 849522,
+   "Indonesia": 74018,
+   "Italy": 242827,
+   "United Kingdom": 290504,
+   "United States": 3252874
+ },
+ {
+   "dateFor": "2020-07-12",
+   "China": 83648,
+   "India": 878254,
+   "Indonesia": 75699,
+   "Italy": 243061,
+   "United Kingdom": 291154,
+   "United States": 3311312
+ },
+ {
+   "dateFor": "2020-07-13",
+   "China": 83648,
+   "India": 906752,
+   "Indonesia": 76981,
+   "Italy": 243230,
+   "United Kingdom": 291691,
+   "United States": 3370208
+ },
+ {
+   "dateFor": "2020-07-14",
+   "China": 83657,
+   "India": 936181,
+   "Indonesia": 78572,
+   "Italy": 243344,
+   "United Kingdom": 292931,
+   "United States": 3438244
+ },
+ {
+   "dateFor": "2020-07-15",
+   "China": 83658,
+   "India": 968857,
+   "Indonesia": 80094,
+   "Italy": 243506,
+   "United Kingdom": 293469,
+   "United States": 3506364
+ },
+ {
+   "dateFor": "2020-07-16",
+   "China": 83672,
+   "India": 1003832,
+   "Indonesia": 81668,
+   "Italy": 243736,
+   "United Kingdom": 294116,
+   "United States": 3582184
+ },
+ {
+   "dateFor": "2020-07-17",
+   "China": 83689,
+   "India": 1039084,
+   "Indonesia": 83130,
+   "Italy": 243967,
+   "United Kingdom": 294803,
+   "United States": 3654445
+ },
+ {
+   "dateFor": "2020-07-18",
+   "China": 83705,
+   "India": 1077781,
+   "Indonesia": 84882,
+   "Italy": 244216,
+   "United Kingdom": 295632,
+   "United States": 3716980
+ },
+ {
+   "dateFor": "2020-07-19",
+   "China": 83726,
+   "India": 1118206,
+   "Indonesia": 86521,
+   "Italy": 244434,
+   "United Kingdom": 296358,
+   "United States": 3777456
+ },
+ {
+   "dateFor": "2020-07-20",
+   "China": 83737,
+   "India": 1155338,
+   "Indonesia": 88214,
+   "Italy": 244624,
+   "United Kingdom": 296944,
+   "United States": 3839546
+ },
+ {
+   "dateFor": "2020-07-21",
+   "China": 83750,
+   "India": 1193078,
+   "Indonesia": 89869,
+   "Italy": 244752,
+   "United Kingdom": 297389,
+   "United States": 3904066
+ },
+ {
+   "dateFor": "2020-07-22",
+   "China": 83775,
+   "India": 1238798,
+   "Indonesia": 91751,
+   "Italy": 245032,
+   "United Kingdom": 297952,
+   "United States": 3974630
+ },
+ {
+   "dateFor": "2020-07-23",
+   "China": 83796,
+   "India": 1288108,
+   "Indonesia": 93657,
+   "Italy": 245338,
+   "United Kingdom": 298731,
+   "United States": 4043070
+ },
+ {
+   "dateFor": "2020-07-24",
+   "China": 83830,
+   "India": 1337024,
+   "Indonesia": 95418,
+   "Italy": 245590,
+   "United Kingdom": 299500,
+   "United States": 4116393
+ },
+ {
+   "dateFor": "2020-07-25",
+   "China": 83876,
+   "India": 1385635,
+   "Indonesia": 97286,
+   "Italy": 245864,
+   "United Kingdom": 300270,
+   "United States": 4181308
+ },
+ {
+   "dateFor": "2020-07-26",
+   "China": 83937,
+   "India": 1435616,
+   "Indonesia": 98778,
+   "Italy": 246118,
+   "United Kingdom": 301020,
+   "United States": 4236083
+ },
+ {
+   "dateFor": "2020-07-27",
+   "China": 84005,
+   "India": 1480073,
+   "Indonesia": 100303,
+   "Italy": 246286,
+   "United Kingdom": 301708,
+   "United States": 4292934
+ },
+ {
+   "dateFor": "2020-07-28",
+   "China": 84106,
+   "India": 1531669,
+   "Indonesia": 102051,
+   "Italy": 246488,
+   "United Kingdom": 302261,
+   "United States": 4359391
+ },
+ {
+   "dateFor": "2020-07-29",
+   "China": 84211,
+   "India": 1581963,
+   "Indonesia": 104432,
+   "Italy": 246776,
+   "United Kingdom": 303063,
+   "United States": 4431244
+ },
+ {
+   "dateFor": "2020-07-30",
+   "China": 84338,
+   "India": 1634746,
+   "Indonesia": 106336,
+   "Italy": 247158,
+   "United Kingdom": 303910,
+   "United States": 4498701
+ },
+ {
+   "dateFor": "2020-07-31",
+   "China": 84383,
+   "India": 1695988,
+   "Indonesia": 108376,
+   "Italy": 247537,
+   "United Kingdom": 304793,
+   "United States": 4567420
+ },
+ {
+   "dateFor": "2020-08-01",
+   "China": 84431,
+   "India": 1750723,
+   "Indonesia": 109936,
+   "Italy": 247832,
+   "United Kingdom": 305562,
+   "United States": 4623604
+ },
+ {
+   "dateFor": "2020-08-02",
+   "China": 84474,
+   "India": 1803695,
+   "Indonesia": 111455,
+   "Italy": 248070,
+   "United Kingdom": 306309,
+   "United States": 4669149
+ },
+ {
+   "dateFor": "2020-08-03",
+   "China": 84510,
+   "India": 1855745,
+   "Indonesia": 113134,
+   "Italy": 248229,
+   "United Kingdom": 307251,
+   "United States": 4714678
+ },
+ {
+   "dateFor": "2020-08-04",
+   "China": 84537,
+   "India": 1908254,
+   "Indonesia": 115056,
+   "Italy": 248419,
+   "United Kingdom": 307926,
+   "United States": 4773479
+ },
+ {
+   "dateFor": "2020-08-05",
+   "China": 84574,
+   "India": 1964536,
+   "Indonesia": 116871,
+   "Italy": 248803,
+   "United Kingdom": 308832,
+   "United States": 4827936
+ },
+ {
+   "dateFor": "2020-08-06",
+   "China": 84611,
+   "India": 2027074,
+   "Indonesia": 118753,
+   "Italy": 249204,
+   "United Kingdom": 309796,
+   "United States": 4887293
+ },
+ {
+   "dateFor": "2020-08-07",
+   "China": 84642,
+   "India": 2088611,
+   "Indonesia": 121226,
+   "Italy": 249756,
+   "United Kingdom": 310696,
+   "United States": 4946590
+ },
+ {
+   "dateFor": "2020-08-08",
+   "China": 84665,
+   "India": 2153010,
+   "Indonesia": 123503,
+   "Italy": 250103,
+   "United Kingdom": 311461,
+   "United States": 5000709
+ },
+ {
+   "dateFor": "2020-08-09",
+   "China": 84714,
+   "India": 2215074,
+   "Indonesia": 125396,
+   "Italy": 250566,
+   "United Kingdom": 312574,
+   "United States": 5046463
+ },
+ {
+   "dateFor": "2020-08-10",
+   "China": 84758,
+   "India": 2268675,
+   "Indonesia": 127083,
+   "Italy": 250825,
+   "United Kingdom": 313392,
+   "United States": 5094087
+ },
+ {
+   "dateFor": "2020-08-11",
+   "China": 84777,
+   "India": 2329638,
+   "Indonesia": 128776,
+   "Italy": 251237,
+   "United Kingdom": 314542,
+   "United States": 5142088
+ },
+ {
+   "dateFor": "2020-08-12",
+   "China": 84802,
+   "India": 2396637,
+   "Indonesia": 130718,
+   "Italy": 251713,
+   "United Kingdom": 315581,
+   "United States": 5198137
+ },
+ {
+   "dateFor": "2020-08-13",
+   "China": 84832,
+   "India": 2461190,
+   "Indonesia": 132816,
+   "Italy": 252235,
+   "United Kingdom": 316729,
+   "United States": 5249451
+ },
+ {
+   "dateFor": "2020-08-14",
+   "China": 84854,
+   "India": 2525922,
+   "Indonesia": 135123,
+   "Italy": 252809,
+   "United Kingdom": 318190,
+   "United States": 5314791
+ },
+ {
+   "dateFor": "2020-08-15",
+   "China": 84873,
+   "India": 2589952,
+   "Indonesia": 137468,
+   "Italy": 253438,
+   "United Kingdom": 319232,
+   "United States": 5361712
+ },
+ {
+   "dateFor": "2020-08-16",
+   "China": 84895,
+   "India": 2647663,
+   "Indonesia": 139549,
+   "Italy": 253915,
+   "United Kingdom": 320343,
+   "United States": 5400904
+ },
+ {
+   "dateFor": "2020-08-17",
+   "China": 84917,
+   "India": 2702681,
+   "Indonesia": 141370,
+   "Italy": 254235,
+   "United Kingdom": 321064,
+   "United States": 5437580
+ },
+ {
+   "dateFor": "2020-08-18",
+   "China": 84934,
+   "India": 2767253,
+   "Indonesia": 143043,
+   "Italy": 254636,
+   "United Kingdom": 322177,
+   "United States": 5482614
+ },
+ {
+   "dateFor": "2020-08-19",
+   "China": 84941,
+   "India": 2836925,
+   "Indonesia": 144945,
+   "Italy": 255278,
+   "United Kingdom": 323008,
+   "United States": 5529973
+ },
+ {
+   "dateFor": "2020-08-20",
+   "China": 84963,
+   "India": 2905825,
+   "Indonesia": 147211,
+   "Italy": 256118,
+   "United Kingdom": 324203,
+   "United States": 5574013
+ },
+ {
+   "dateFor": "2020-08-21",
+   "China": 84985,
+   "India": 2975701,
+   "Indonesia": 149408,
+   "Italy": 257065,
+   "United Kingdom": 325263,
+   "United States": 5622842
+ },
+ {
+   "dateFor": "2020-08-22",
+   "China": 84997,
+   "India": 3044940,
+   "Indonesia": 151498,
+   "Italy": 258136,
+   "United Kingdom": 326595,
+   "United States": 5665887
+ },
+ {
+   "dateFor": "2020-08-23",
+   "China": 85013,
+   "India": 3106348,
+   "Indonesia": 153535,
+   "Italy": 259345,
+   "United Kingdom": 327643,
+   "United States": 5700119
+ },
+ {
+   "dateFor": "2020-08-24",
+   "China": 85027,
+   "India": 3167323,
+   "Indonesia": 155412,
+   "Italy": 260298,
+   "United Kingdom": 328620,
+   "United States": 5736641
+ },
+ {
+   "dateFor": "2020-08-25",
+   "China": 85042,
+   "India": 3224547,
+   "Indonesia": 157859,
+   "Italy": 261174,
+   "United Kingdom": 329821,
+   "United States": 5777001
+ },
+ {
+   "dateFor": "2020-08-26",
+   "China": 85050,
+   "India": 3310234,
+   "Indonesia": 160165,
+   "Italy": 262540,
+   "United Kingdom": 330967,
+   "United States": 5822167
+ },
+ {
+   "dateFor": "2020-08-27",
+   "China": 85059,
+   "India": 3387500,
+   "Indonesia": 162884,
+   "Italy": 263949,
+   "United Kingdom": 332509,
+   "United States": 5867547
+ },
+ {
+   "dateFor": "2020-08-28",
+   "China": 85068,
+   "India": 3463972,
+   "Indonesia": 165887,
+   "Italy": 265409,
+   "United Kingdom": 333806,
+   "United States": 5914395
+ },
+ {
+   "dateFor": "2020-08-29",
+   "China": 85077,
+   "India": 3542733,
+   "Indonesia": 169195,
+   "Italy": 266853,
+   "United Kingdom": 334916,
+   "United States": 5957126
+ },
+ {
+   "dateFor": "2020-08-30",
+   "China": 85094,
+   "India": 3621245,
+   "Indonesia": 172053,
+   "Italy": 268218,
+   "United Kingdom": 336668,
+   "United States": 5991507
+ },
+ {
+   "dateFor": "2020-08-31",
+   "China": 85104,
+   "India": 3691166,
+   "Indonesia": 174796,
+   "Italy": 269214,
+   "United Kingdom": 338083,
+   "United States": 6026895
+ },
+ {
+   "dateFor": "2020-09-01",
+   "China": 85111,
+   "India": 3769523,
+   "Indonesia": 177571,
+   "Italy": 270189,
+   "United Kingdom": 339415,
+   "United States": 6068759
+ },
+ {
+   "dateFor": "2020-09-02",
+   "China": 85123,
+   "India": 3853406,
+   "Indonesia": 180646,
+   "Italy": 271515,
+   "United Kingdom": 340929,
+   "United States": 6109773
+ },
+ {
+   "dateFor": "2020-09-03",
+   "China": 85148,
+   "India": 3936747,
+   "Indonesia": 184268,
+   "Italy": 272912,
+   "United Kingdom": 342708,
+   "United States": 6153983
+ },
+ {
+   "dateFor": "2020-09-04",
+   "China": 85158,
+   "India": 4023179,
+   "Indonesia": 187537,
+   "Italy": 274644,
+   "United Kingdom": 344686,
+   "United States": 6204376
+ },
+ {
+   "dateFor": "2020-09-05",
+   "China": 85168,
+   "India": 4113811,
+   "Indonesia": 190665,
+   "Italy": 276338,
+   "United Kingdom": 346513,
+   "United States": 6247464
+ },
+ {
+   "dateFor": "2020-09-06",
+   "China": 85180,
+   "India": 4204613,
+   "Indonesia": 194109,
+   "Italy": 277634,
+   "United Kingdom": 349500,
+   "United States": 6278633
+ },
+ {
+   "dateFor": "2020-09-07",
+   "China": 85189,
+   "India": 4280422,
+   "Indonesia": 196989,
+   "Italy": 278784,
+   "United Kingdom": 352453,
+   "United States": 6302200
+ },
+ {
+   "dateFor": "2020-09-08",
+   "China": 85192,
+   "India": 4370128,
+   "Indonesia": 200035,
+   "Italy": 280153,
+   "United Kingdom": 354934,
+   "United States": 6329593
+ },
+ {
+   "dateFor": "2020-09-09",
+   "China": 85199,
+   "India": 4465863,
+   "Indonesia": 203342,
+   "Italy": 281583,
+   "United Kingdom": 357615,
+   "United States": 6363650
+ },
+ {
+   "dateFor": "2020-09-10",
+   "China": 85214,
+   "India": 4562414,
+   "Indonesia": 207203,
+   "Italy": 283180,
+   "United Kingdom": 360546,
+   "United States": 6399723
+ },
+ {
+   "dateFor": "2020-09-11",
+   "China": 85220,
+   "India": 4659984,
+   "Indonesia": 210940,
+   "Italy": 284796,
+   "United Kingdom": 364090,
+   "United States": 6447501
+ },
+ {
+   "dateFor": "2020-09-12",
+   "China": 85230,
+   "India": 4754356,
+   "Indonesia": 214746,
+   "Italy": 286297,
+   "United Kingdom": 367594,
+   "United States": 6488563
+ },
+ {
+   "dateFor": "2020-09-13",
+   "China": 85240,
+   "India": 4846427,
+   "Indonesia": 218382,
+   "Italy": 287753,
+   "United Kingdom": 370932,
+   "United States": 6522914
+ },
+ {
+   "dateFor": "2020-09-14",
+   "China": 85248,
+   "India": 4930236,
+   "Indonesia": 221523,
+   "Italy": 288761,
+   "United Kingdom": 373557,
+   "United States": 6557342
+ },
+ {
+   "dateFor": "2020-09-15",
+   "China": 85260,
+   "India": 5020359,
+   "Indonesia": 225030,
+   "Italy": 289990,
+   "United Kingdom": 376672,
+   "United States": 6596849
+ },
+ {
+   "dateFor": "2020-09-16",
+   "China": 85269,
+   "India": 5118253,
+   "Indonesia": 228993,
+   "Italy": 291442,
+   "United Kingdom": 380679,
+   "United States": 6635867
+ },
+ {
+   "dateFor": "2020-09-17",
+   "China": 85301,
+   "India": 5214677,
+   "Indonesia": 232628,
+   "Italy": 293025,
+   "United Kingdom": 384089,
+   "United States": 6681004
+ },
+ {
+   "dateFor": "2020-09-18",
+   "China": 85315,
+   "India": 5308014,
+   "Indonesia": 236519,
+   "Italy": 294932,
+   "United Kingdom": 388418,
+   "United States": 6730288
+ },
+ {
+   "dateFor": "2020-09-19",
+   "China": 85325,
+   "India": 5400619,
+   "Indonesia": 240687,
+   "Italy": 296569,
+   "United Kingdom": 392847,
+   "United States": 6772447
+ },
+ {
+   "dateFor": "2020-09-20",
+   "China": 85337,
+   "India": 5487580,
+   "Indonesia": 244676,
+   "Italy": 298156,
+   "United Kingdom": 396746,
+   "United States": 6810862
+ },
+ {
+   "dateFor": "2020-09-21",
+   "China": 85343,
+   "India": 5562663,
+   "Indonesia": 248852,
+   "Italy": 299506,
+   "United Kingdom": 401124,
+   "United States": 6862834
+ },
+ {
+   "dateFor": "2020-09-22",
+   "China": 85353,
+   "India": 5646010,
+   "Indonesia": 252923,
+   "Italy": 300897,
+   "United Kingdom": 406060,
+   "United States": 6902696
+ },
+ {
+   "dateFor": "2020-09-23",
+   "China": 85360,
+   "India": 5732518,
+   "Indonesia": 257388,
+   "Italy": 302537,
+   "United Kingdom": 412247,
+   "United States": 6941758
+ },
+ {
+   "dateFor": "2020-09-24",
+   "China": 85368,
+   "India": 5818570,
+   "Indonesia": 262022,
+   "Italy": 304323,
+   "United Kingdom": 418891,
+   "United States": 6988869
+ },
+ {
+   "dateFor": "2020-09-25",
+   "China": 85383,
+   "India": 5903932,
+   "Indonesia": 266845,
+   "Italy": 306235,
+   "United Kingdom": 425769,
+   "United States": 7037151
+ },
+ {
+   "dateFor": "2020-09-26",
+   "China": 85397,
+   "India": 5992532,
+   "Indonesia": 271339,
+   "Italy": 308104,
+   "United Kingdom": 431819,
+   "United States": 7081803
+ },
+ {
+   "dateFor": "2020-09-27",
+   "China": 85418,
+   "India": 6074702,
+   "Indonesia": 275213,
+   "Italy": 309870,
+   "United Kingdom": 437519,
+   "United States": 7119311
+ },
+ {
+   "dateFor": "2020-09-28",
+   "China": 85430,
+   "India": 6145291,
+   "Indonesia": 278722,
+   "Italy": 311364,
+   "United Kingdom": 441575,
+   "United States": 7152546
+ },
+ {
+   "dateFor": "2020-09-29",
+   "China": 85449,
+   "India": 6225763,
+   "Indonesia": 282724,
+   "Italy": 313011,
+   "United Kingdom": 448731,
+   "United States": 7195994
+ },
+ {
+   "dateFor": "2020-09-30",
+   "China": 85458,
+   "India": 6312584,
+   "Indonesia": 287008,
+   "Italy": 314861,
+   "United Kingdom": 455848,
+   "United States": 7235428
+ },
+ {
+   "dateFor": "2020-10-01",
+   "China": 85470,
+   "India": 6394068,
+   "Indonesia": 291182,
+   "Italy": 317409,
+   "United Kingdom": 462777,
+   "United States": 7281081
+ },
+ {
+   "dateFor": "2020-10-02",
+   "China": 85480,
+   "India": 6473544,
+   "Indonesia": 295499,
+   "Italy": 319908,
+   "United Kingdom": 469771,
+   "United States": 7336043
+ },
+ {
+   "dateFor": "2020-10-03",
+   "China": 85496,
+   "India": 6549373,
+   "Indonesia": 299506,
+   "Italy": 322751,
+   "United Kingdom": 482656,
+   "United States": 7384578
+ },
+ {
+   "dateFor": "2020-10-04",
+   "China": 85516,
+   "India": 6623815,
+   "Indonesia": 303498,
+   "Italy": 325329,
+   "United Kingdom": 505621,
+   "United States": 7420293
+ },
+ {
+   "dateFor": "2020-10-05",
+   "China": 85528,
+   "India": 6685082,
+   "Indonesia": 307120,
+   "Italy": 327586,
+   "United Kingdom": 518224,
+   "United States": 7459742
+ },
+ {
+   "dateFor": "2020-10-06",
+   "China": 85535,
+   "India": 6757131,
+   "Indonesia": 311176,
+   "Italy": 330263,
+   "United Kingdom": 532781,
+   "United States": 7504998
+ },
+ {
+   "dateFor": "2020-10-07",
+   "China": 85544,
+   "India": 6835655,
+   "Indonesia": 315714,
+   "Italy": 333940,
+   "United Kingdom": 546954,
+   "United States": 7556060
+ },
+ {
+   "dateFor": "2020-10-08",
+   "China": 85567,
+   "India": 6906151,
+   "Indonesia": 320564,
+   "Italy": 338398,
+   "United Kingdom": 564504,
+   "United States": 7614653
+ },
+ {
+   "dateFor": "2020-10-09",
+   "China": 85582,
+   "India": 6979423,
+   "Indonesia": 324658,
+   "Italy": 343770,
+   "United Kingdom": 578392,
+   "United States": 7671034
+ },
+ {
+   "dateFor": "2020-10-10",
+   "China": 85603,
+   "India": 7053806,
+   "Indonesia": 328952,
+   "Italy": 349494,
+   "United Kingdom": 593567,
+   "United States": 7725952
+ },
+ {
+   "dateFor": "2020-10-11",
+   "China": 85630,
+   "India": 7120538,
+   "Indonesia": 333449,
+   "Italy": 354950,
+   "United Kingdom": 606449,
+   "United States": 7771893
+ },
+ {
+   "dateFor": "2020-10-12",
+   "China": 85637,
+   "India": 7175880,
+   "Indonesia": 336716,
+   "Italy": 359569,
+   "United Kingdom": 620460,
+   "United States": 7813735
+ },
+ {
+   "dateFor": "2020-10-13",
+   "China": 85657,
+   "India": 7239389,
+   "Indonesia": 340622,
+   "Italy": 365467,
+   "United Kingdom": 637710,
+   "United States": 7865983
+ },
+ {
+   "dateFor": "2020-10-14",
+   "China": 85668,
+   "India": 7307097,
+   "Indonesia": 344749,
+   "Italy": 372799,
+   "United Kingdom": 657461,
+   "United States": 7925748
+ },
+ {
+   "dateFor": "2020-10-15",
+   "China": 85692,
+   "India": 7370468,
+   "Indonesia": 349160,
+   "Italy": 381602,
+   "United Kingdom": 676457,
+   "United States": 7990636
+ },
+ {
+   "dateFor": "2020-10-16",
+   "China": 85705,
+   "India": 7432680,
+   "Indonesia": 353461,
+   "Italy": 391611,
+   "United Kingdom": 692114,
+   "United States": 8059782
+ },
+ {
+   "dateFor": "2020-10-17",
+   "China": 85718,
+   "India": 7494551,
+   "Indonesia": 357762,
+   "Italy": 402536,
+   "United Kingdom": 708300,
+   "United States": 8116518
+ },
+ {
+   "dateFor": "2020-10-18",
+   "China": 85731,
+   "India": 7550273,
+   "Indonesia": 361867,
+   "Italy": 414241,
+   "United Kingdom": 725294,
+   "United States": 8165858
+ },
+ {
+   "dateFor": "2020-10-19",
+   "China": 85750,
+   "India": 7597063,
+   "Indonesia": 365240,
+   "Italy": 423578,
+   "United Kingdom": 744124,
+   "United States": 8233610
+ },
+ {
+   "dateFor": "2020-10-20",
+   "China": 85761,
+   "India": 7651107,
+   "Indonesia": 368842,
+   "Italy": 434449,
+   "United Kingdom": 765489,
+   "United States": 8295581
+ },
+ {
+   "dateFor": "2020-10-21",
+   "China": 85775,
+   "India": 7706946,
+   "Indonesia": 373109,
+   "Italy": 449648,
+   "United Kingdom": 792196,
+   "United States": 8358864
+ },
+ {
+   "dateFor": "2020-10-22",
+   "China": 85793,
+   "India": 7761312,
+   "Indonesia": 377541,
+   "Italy": 465726,
+   "United Kingdom": 813453,
+   "United States": 8435164
+ },
+ {
+   "dateFor": "2020-10-23",
+   "China": 85824,
+   "India": 7814682,
+   "Indonesia": 381910,
+   "Italy": 484869,
+   "United Kingdom": 834012,
+   "United States": 8517113
+ },
+ {
+   "dateFor": "2020-10-24",
+   "China": 85839,
+   "India": 7864811,
+   "Indonesia": 385980,
+   "Italy": 504509,
+   "United Kingdom": 857045,
+   "United States": 8599842
+ },
+ {
+   "dateFor": "2020-10-25",
+   "China": 85856,
+   "India": 7909959,
+   "Indonesia": 389712,
+   "Italy": 525782,
+   "United Kingdom": 876842,
+   "United States": 8661982
+ },
+ {
+   "dateFor": "2020-10-26",
+   "China": 85872,
+   "India": 7946429,
+   "Indonesia": 392934,
+   "Italy": 542789,
+   "United Kingdom": 897742,
+   "United States": 8729385
+ },
+ {
+   "dateFor": "2020-10-27",
+   "China": 85914,
+   "India": 7990322,
+   "Indonesia": 396454,
+   "Italy": 564778,
+   "United Kingdom": 920666,
+   "United States": 8806228
+ },
+ {
+   "dateFor": "2020-10-28",
+   "China": 85961,
+   "India": 8040203,
+   "Indonesia": 400483,
+   "Italy": 589766,
+   "United Kingdom": 945380,
+   "United States": 8885632
+ },
+ {
+   "dateFor": "2020-10-29",
+   "China": 85986,
+   "India": 8088851,
+   "Indonesia": 404048,
+   "Italy": 616595,
+   "United Kingdom": 968458,
+   "United States": 8976684
+ },
+ {
+   "dateFor": "2020-10-30",
+   "China": 86019,
+   "India": 8137119,
+   "Indonesia": 406945,
+   "Italy": 647674,
+   "United Kingdom": 992876,
+   "United States": 9075924
+ },
+ {
+   "dateFor": "2020-10-31",
+   "China": 86043,
+   "India": 8184082,
+   "Indonesia": 410088,
+   "Italy": 679430,
+   "United Kingdom": 1014795,
+   "United States": 9165619
+ },
+ {
+   "dateFor": "2020-11-01",
+   "China": 86067,
+   "India": 8229313,
+   "Indonesia": 412784,
+   "Italy": 709335,
+   "United Kingdom": 1038056,
+   "United States": 9270467
+ },
+ {
+   "dateFor": "2020-11-02",
+   "China": 86116,
+   "India": 8267623,
+   "Indonesia": 415402,
+   "Italy": 731588,
+   "United Kingdom": 1057023,
+   "United States": 9355775
+ },
+ {
+   "dateFor": "2020-11-03",
+   "China": 86133,
+   "India": 8313876,
+   "Indonesia": 418375,
+   "Italy": 759829,
+   "United Kingdom": 1077101,
+   "United States": 9482891
+ },
+ {
+   "dateFor": "2020-11-04",
+   "China": 86161,
+   "India": 8364086,
+   "Indonesia": 421731,
+   "Italy": 790377,
+   "United Kingdom": 1102307,
+   "United States": 9587499
+ },
+ {
+   "dateFor": "2020-11-05",
+   "China": 86197,
+   "India": 8411724,
+   "Indonesia": 425796,
+   "Italy": 824879,
+   "United Kingdom": 1126471,
+   "United States": 9716853
+ },
+ {
+   "dateFor": "2020-11-06",
+   "China": 86230,
+   "India": 8462080,
+   "Indonesia": 429574,
+   "Italy": 862681,
+   "United Kingdom": 1149793,
+   "United States": 9844858
+ },
+ {
+   "dateFor": "2020-11-07",
+   "China": 86258,
+   "India": 8507754,
+   "Indonesia": 433836,
+   "Italy": 902490,
+   "United Kingdom": 1174772,
+   "United States": 9972308
+ },
+ {
+   "dateFor": "2020-11-08",
+   "China": 86291,
+   "India": 8553657,
+   "Indonesia": 437716,
+   "Italy": 935104,
+   "United Kingdom": 1195352,
+   "United States": 10087380
+ },
+ {
+   "dateFor": "2020-11-09",
+   "China": 86313,
+   "India": 8591730,
+   "Indonesia": 440569,
+   "Italy": 960373,
+   "United Kingdom": 1216749,
+   "United States": 10207953
+ },
+ {
+   "dateFor": "2020-11-10",
+   "China": 86330,
+   "India": 8636011,
+   "Indonesia": 444348,
+   "Italy": 995463,
+   "United Kingdom": 1237200,
+   "United States": 10348449
+ },
+ {
+   "dateFor": "2020-11-11",
+   "China": 86345,
+   "India": 8683916,
+   "Indonesia": 448118,
+   "Italy": 1028424,
+   "United Kingdom": 1260200,
+   "United States": 10495075
+ },
+ {
+   "dateFor": "2020-11-12",
+   "China": 86353,
+   "India": 8728795,
+   "Indonesia": 452291,
+   "Italy": 1066401,
+   "United Kingdom": 1293717,
+   "United States": 10659914
+ },
+ {
+   "dateFor": "2020-11-13",
+   "China": 86371,
+   "India": 8773479,
+   "Indonesia": 457735,
+   "Italy": 1107303,
+   "United Kingdom": 1321033,
+   "United States": 10840303
+ },
+ {
+   "dateFor": "2020-11-14",
+   "China": 86384,
+   "India": 8814579,
+   "Indonesia": 463007,
+   "Italy": 1144552,
+   "United Kingdom": 1347909,
+   "United States": 11008064
+ },
+ {
+   "dateFor": "2020-11-15",
+   "China": 86392,
+   "India": 8845127,
+   "Indonesia": 467113,
+   "Italy": 1178529,
+   "United Kingdom": 1372886,
+   "United States": 11144288
+ },
+ {
+   "dateFor": "2020-11-16",
+   "China": 86406,
+   "India": 8874290,
+   "Indonesia": 470648,
+   "Italy": 1205881,
+   "United Kingdom": 1394302,
+   "United States": 11307233
+ },
+ {
+   "dateFor": "2020-11-17",
+   "China": 86415,
+   "India": 8912907,
+   "Indonesia": 474455,
+   "Italy": 1238072,
+   "United Kingdom": 1414362,
+   "United States": 11471155
+ },
+ {
+   "dateFor": "2020-11-18",
+   "China": 86427,
+   "India": 8958483,
+   "Indonesia": 478720,
+   "Italy": 1272352,
+   "United Kingdom": 1434007,
+   "United States": 11644332
+ },
+ {
+   "dateFor": "2020-11-19",
+   "China": 86444,
+   "India": 9004365,
+   "Indonesia": 483518,
+   "Italy": 1308528,
+   "United Kingdom": 1456943,
+   "United States": 11835880
+ },
+ {
+   "dateFor": "2020-11-20",
+   "China": 86460,
+   "India": 9050597,
+   "Indonesia": 488310,
+   "Italy": 1345767,
+   "United Kingdom": 1477217,
+   "United States": 12034177
+ },
+ {
+   "dateFor": "2020-11-21",
+   "China": 86477,
+   "India": 9095806,
+   "Indonesia": 493308,
+   "Italy": 1380531,
+   "United Kingdom": 1497138,
+   "United States": 12213451
+ },
+ {
+   "dateFor": "2020-11-22",
+   "China": 86488,
+   "India": 9139865,
+   "Indonesia": 497668,
+   "Italy": 1408868,
+   "United Kingdom": 1515805,
+   "United States": 12360235
+ },
+ {
+   "dateFor": "2020-11-23",
+   "China": 86510,
+   "India": 9177840,
+   "Indonesia": 502110,
+   "Italy": 1431795,
+   "United Kingdom": 1531270,
+   "United States": 12534684
+ },
+ {
+   "dateFor": "2020-11-24",
+   "China": 86515,
+   "India": 9222216,
+   "Indonesia": 506302,
+   "Italy": 1455022,
+   "United Kingdom": 1542614,
+   "United States": 12710198
+ },
+ {
+   "dateFor": "2020-11-25",
+   "China": 86536,
+   "India": 9266705,
+   "Indonesia": 511836,
+   "Italy": 1480874,
+   "United Kingdom": 1560875,
+   "United States": 12893485
+ },
+ {
+   "dateFor": "2020-11-26",
+   "China": 86541,
+   "India": 9309787,
+   "Indonesia": 516753,
+   "Italy": 1509875,
+   "United Kingdom": 1578432,
+   "United States": 13005807
+ },
+ {
+   "dateFor": "2020-11-27",
+   "China": 86547,
+   "India": 9351109,
+   "Indonesia": 522581,
+   "Italy": 1538217,
+   "United Kingdom": 1593253,
+   "United States": 13213995
+ },
+ {
+   "dateFor": "2020-11-28",
+   "China": 86558,
+   "India": 9392919,
+   "Indonesia": 527999,
+   "Italy": 1564532,
+   "United Kingdom": 1609144,
+   "United States": 13369528
+ },
+ {
+   "dateFor": "2020-11-29",
+   "China": 86576,
+   "India": 9431691,
+   "Indonesia": 534266,
+   "Italy": 1585178,
+   "United Kingdom": 1621308,
+   "United States": 13509762
+ },
+ {
+   "dateFor": "2020-11-30",
+   "China": 86588,
+   "India": 9462809,
+   "Indonesia": 538883,
+   "Italy": 1601554,
+   "United Kingdom": 1633736,
+   "United States": 13670332
+ },
+ {
+   "dateFor": "2020-12-01",
+   "China": 86597,
+   "India": 9499413,
+   "Indonesia": 543975,
+   "Italy": 1620901,
+   "United Kingdom": 1647233,
+   "United States": 13858551
+ },
+ {
+   "dateFor": "2020-12-02",
+   "China": 86614,
+   "India": 9534964,
+   "Indonesia": 549508,
+   "Italy": 1641610,
+   "United Kingdom": 1663470,
+   "United States": 14061108
+ },
+ {
+   "dateFor": "2020-12-03",
+   "China": 86632,
+   "India": 9571559,
+   "Indonesia": 557877,
+   "Italy": 1664829,
+   "United Kingdom": 1678421,
+   "United States": 14284721
+ },
+ {
+   "dateFor": "2020-12-04",
+   "China": 86647,
+   "India": 9608211,
+   "Indonesia": 563680,
+   "Italy": 1688939,
+   "United Kingdom": 1694803,
+   "United States": 14517506
+ },
+ {
+   "dateFor": "2020-12-05",
+   "China": 86665,
+   "India": 9644222,
+   "Indonesia": 569707,
+   "Italy": 1709991,
+   "United Kingdom": 1710382,
+   "United States": 14733048
+ },
+ {
+   "dateFor": "2020-12-06",
+   "China": 86680,
+   "India": 9677203,
+   "Indonesia": 575796,
+   "Italy": 1728878,
+   "United Kingdom": 1727754,
+   "United States": 14914060
+ },
+ {
+   "dateFor": "2020-12-07",
+   "China": 86695,
+   "India": 9703770,
+   "Indonesia": 581550,
+   "Italy": 1742557,
+   "United Kingdom": 1742528,
+   "United States": 15108918
+ },
+ {
+   "dateFor": "2020-12-08",
+   "China": 86707,
+   "India": 9735850,
+   "Indonesia": 586842,
+   "Italy": 1757394,
+   "United Kingdom": 1754914,
+   "United States": 15333410
+ },
+ {
+   "dateFor": "2020-12-09",
+   "China": 86719,
+   "India": 9767371,
+   "Indonesia": 592900,
+   "Italy": 1770149,
+   "United Kingdom": 1771548,
+   "United States": 15555949
+ },
+ {
+   "dateFor": "2020-12-10",
+   "China": 86734,
+   "India": 9796744,
+   "Indonesia": 598933,
+   "Italy": 1787147,
+   "United Kingdom": 1792614,
+   "United States": 15787464
+ },
+ {
+   "dateFor": "2020-12-11",
+   "China": 86747,
+   "India": 9826775,
+   "Indonesia": 605243,
+   "Italy": 1805873,
+   "United Kingdom": 1814398,
+   "United States": 16027441
+ },
+ {
+   "dateFor": "2020-12-12",
+   "China": 86771,
+   "India": 9857029,
+   "Indonesia": 611631,
+   "Italy": 1825775,
+   "United Kingdom": 1835952,
+   "United States": 16245026
+ },
+ {
+   "dateFor": "2020-12-13",
+   "China": 86787,
+   "India": 9884100,
+   "Indonesia": 617820,
+   "Italy": 1843712,
+   "United Kingdom": 1854493,
+   "United States": 16432729
+ },
+ {
+   "dateFor": "2020-12-14",
+   "China": 86804,
+   "India": 9906165,
+   "Indonesia": 623309,
+   "Italy": 1855737,
+   "United Kingdom": 1874870,
+   "United States": 16627550
+ },
+ {
+   "dateFor": "2020-12-15",
+   "China": 86816,
+   "India": 9932547,
+   "Indonesia": 629429,
+   "Italy": 1870576,
+   "United Kingdom": 1893439,
+   "United States": 16836556
+ },
+ {
+   "dateFor": "2020-12-16",
+   "China": 86823,
+   "India": 9956557,
+   "Indonesia": 636154,
+   "Italy": 1888144,
+   "United Kingdom": 1918739,
+   "United States": 17083256
+ },
+ {
+   "dateFor": "2020-12-17",
+   "China": 86835,
+   "India": 9979447,
+   "Indonesia": 643508,
+   "Italy": 1906377,
+   "United Kingdom": 1954271,
+   "United States": 17322981
+ },
+ {
+   "dateFor": "2020-12-18",
+   "China": 86852,
+   "India": 10004599,
+   "Indonesia": 650197,
+   "Italy": 1921778,
+   "United Kingdom": 1982831,
+   "United States": 17574950
+ },
+ {
+   "dateFor": "2020-12-19",
+   "China": 86875,
+   "India": 10031223,
+   "Indonesia": 657948,
+   "Italy": 1938083,
+   "United Kingdom": 2010080,
+   "United States": 17766856
+ },
+ {
+   "dateFor": "2020-12-20",
+   "China": 86898,
+   "India": 10055560,
+   "Indonesia": 664930,
+   "Italy": 1953185,
+   "United Kingdom": 2046164,
+   "United States": 17954675
+ },
+ {
+   "dateFor": "2020-12-21",
+   "China": 86913,
+   "India": 10075116,
+   "Indonesia": 671778,
+   "Italy": 1964054,
+   "United Kingdom": 2079681,
+   "United States": 18153724
+ },
+ {
+   "dateFor": "2020-12-22",
+   "China": 86928,
+   "India": 10099066,
+   "Indonesia": 678125,
+   "Italy": 1977370,
+   "United Kingdom": 2116612,
+   "United States": 18351735
+ },
+ {
+   "dateFor": "2020-12-23",
+   "China": 86945,
+   "India": 10123778,
+   "Indonesia": 685639,
+   "Italy": 1991278,
+   "United Kingdom": 2155999,
+   "United States": 18581353
+ },
+ {
+   "dateFor": "2020-12-24",
+   "China": 86959,
+   "India": 10146845,
+   "Indonesia": 692838,
+   "Italy": 2009317,
+   "United Kingdom": 2195148,
+   "United States": 18775557
+ },
+ {
+   "dateFor": "2020-12-25",
+   "China": 86979,
+   "India": 10169118,
+   "Indonesia": 700097,
+   "Italy": 2028354,
+   "United Kingdom": 2227951,
+   "United States": 18873203
+ },
+ {
+   "dateFor": "2020-12-26",
+   "China": 87001,
+   "India": 10187850,
+   "Indonesia": 706837,
+   "Italy": 2038759,
+   "United Kingdom": 2262739,
+   "United States": 19099491
+ },
+ {
+   "dateFor": "2020-12-27",
+   "China": 87022,
+   "India": 10207871,
+   "Indonesia": 713365,
+   "Italy": 2047696,
+   "United Kingdom": 2295232,
+   "United States": 19255126
+ },
+ {
+   "dateFor": "2020-12-28",
+   "China": 87049,
+   "India": 10224303,
+   "Indonesia": 719219,
+   "Italy": 2056277,
+   "United Kingdom": 2336692,
+   "United States": 19429760
+ },
+ {
+   "dateFor": "2020-12-29",
+   "China": 87073,
+   "India": 10244852,
+   "Indonesia": 727122,
+   "Italy": 2067487,
+   "United Kingdom": 2389967,
+   "United States": 19630012
+ },
+ {
+   "dateFor": "2020-12-30",
+   "China": 87098,
+   "India": 10266674,
+   "Indonesia": 735124,
+   "Italy": 2083689,
+   "United Kingdom": 2440206,
+   "United States": 19863696
+ },
+ {
+   "dateFor": "2020-12-31",
+   "China": 87117,
+   "India": 10266674,
+   "Indonesia": 743198,
+   "Italy": 2107166,
+   "United Kingdom": 2496235,
+   "United States": 20099363
+ },
+ {
+   "dateFor": "2021-01-01",
+   "China": 87135,
+   "India": 10286709,
+   "Indonesia": 751270,
+   "Italy": 2129376,
+   "United Kingdom": 2549693,
+   "United States": 20252991
+ },
+ {
+   "dateFor": "2021-01-02",
+   "China": 87163,
+   "India": 10323965,
+   "Indonesia": 758473,
+   "Italy": 2141201,
+   "United Kingdom": 2607546,
+   "United States": 20553301
+ },
+ {
+   "dateFor": "2021-01-03",
+   "China": 87196,
+   "India": 10340469,
+   "Indonesia": 765350,
+   "Italy": 2155446,
+   "United Kingdom": 2662703,
+   "United States": 20762047
+ },
+ {
+   "dateFor": "2021-01-04",
+   "China": 87229,
+   "India": 10356844,
+   "Indonesia": 772103,
+   "Italy": 2166244,
+   "United Kingdom": 2721626,
+   "United States": 20946329
+ },
+ {
+   "dateFor": "2021-01-05",
+   "China": 87261,
+   "India": 10374932,
+   "Indonesia": 779548,
+   "Italy": 2181619,
+   "United Kingdom": 2782713,
+   "United States": 21181440
+ },
+ {
+   "dateFor": "2021-01-06",
+   "China": 87324,
+   "India": 10395278,
+   "Indonesia": 788402,
+   "Italy": 2201945,
+   "United Kingdom": 2845269,
+   "United States": 21436884
+ },
+ {
+   "dateFor": "2021-01-07",
+   "China": 87377,
+   "India": 10413417,
+   "Indonesia": 797723,
+   "Italy": 2220361,
+   "United Kingdom": 2898056,
+   "United States": 21715174
+ },
+ {
+   "dateFor": "2021-01-08",
+   "China": 87410,
+   "India": 10413417,
+   "Indonesia": 808340,
+   "Italy": 2237890,
+   "United Kingdom": 2966248,
+   "United States": 22010389
+ },
+ {
+   "dateFor": "2021-01-09",
+   "China": 87479,
+   "India": 10450284,
+   "Indonesia": 818386,
+   "Italy": 2257866,
+   "United Kingdom": 3026346,
+   "United States": 22271084
+ },
+ {
+   "dateFor": "2021-01-10",
+   "China": 87582,
+   "India": 10466595,
+   "Indonesia": 828026,
+   "Italy": 2276491,
+   "United Kingdom": 3081372,
+   "United States": 22484332
+ },
+ {
+   "dateFor": "2021-01-11",
+   "China": 87637,
+   "India": 10479179,
+   "Indonesia": 836718,
+   "Italy": 2289021,
+   "United Kingdom": 3127647,
+   "United States": 22699326
+ },
+ {
+   "dateFor": "2021-01-12",
+   "China": 87752,
+   "India": 10495147,
+   "Indonesia": 846765,
+   "Italy": 2303263,
+   "United Kingdom": 3173295,
+   "United States": 22926246
+ },
+ {
+   "dateFor": "2021-01-13",
+   "China": 87890,
+   "India": 10512093,
+   "Indonesia": 858043,
+   "Italy": 2319036,
+   "United Kingdom": 3220957,
+   "United States": 23156608
+ },
+ {
+   "dateFor": "2021-01-14",
+   "China": 88034,
+   "India": 10527683,
+   "Indonesia": 869600,
+   "Italy": 2336279,
+   "United Kingdom": 3269761,
+   "United States": 23392315
+ },
+ {
+   "dateFor": "2021-01-15",
+   "China": 88164,
+   "India": 10542841,
+   "Indonesia": 882418,
+   "Italy": 2352423,
+   "United Kingdom": 3325646,
+   "United States": 23635046
+ },
+ {
+   "dateFor": "2021-01-16",
+   "China": 88273,
+   "India": 10557985,
+   "Indonesia": 896642,
+   "Italy": 2368733,
+   "United Kingdom": 3367074,
+   "United States": 23836726
+ },
+ {
+   "dateFor": "2021-01-17",
+   "China": 88382,
+   "India": 10571773,
+   "Indonesia": 907929,
+   "Italy": 2381277,
+   "United Kingdom": 3405744,
+   "United States": 24014508
+ },
+ {
+   "dateFor": "2021-01-18",
+   "China": 88500,
+   "India": 10581823,
+   "Indonesia": 917015,
+   "Italy": 2390102,
+   "United Kingdom": 3443354,
+   "United States": 24157924
+ },
+ {
+   "dateFor": "2021-01-19",
+   "China": 88603,
+   "India": 10595639,
+   "Indonesia": 927380,
+   "Italy": 2400598,
+   "United Kingdom": 3476808,
+   "United States": 24334630
+ },
+ {
+   "dateFor": "2021-01-20",
+   "China": 88747,
+   "India": 10610883,
+   "Indonesia": 939948,
+   "Italy": 2414166,
+   "United Kingdom": 3515800,
+   "United States": 24517866
+ },
+ {
+   "dateFor": "2021-01-21",
+   "China": 88858,
+   "India": 10625428,
+   "Indonesia": 951651,
+   "Italy": 2428221,
+   "United Kingdom": 3553777,
+   "United States": 24711684
+ },
+ {
+   "dateFor": "2021-01-22",
+   "China": 88958,
+   "India": 10639684,
+   "Indonesia": 965283,
+   "Italy": 2441854,
+   "United Kingdom": 3594098,
+   "United States": 24902437
+ },
+ {
+   "dateFor": "2021-01-23",
+   "China": 89038,
+   "India": 10654533,
+   "Indonesia": 977474,
+   "Italy": 2455185,
+   "United Kingdom": 3627750,
+   "United States": 25073050
+ },
+ {
+   "dateFor": "2021-01-24",
+   "China": 89162,
+   "India": 10667736,
+   "Indonesia": 989262,
+   "Italy": 2466813,
+   "United Kingdom": 3657861,
+   "United States": 25204112
+ },
+ {
+   "dateFor": "2021-01-25",
+   "China": 89244,
+   "India": 10676838,
+   "Indonesia": 999256,
+   "Italy": 2475372,
+   "United Kingdom": 3680105,
+   "United States": 25356081
+ },
+ {
+   "dateFor": "2021-01-26",
+   "China": 89319,
+   "India": 10689527,
+   "Indonesia": 1012350,
+   "Italy": 2485956,
+   "United Kingdom": 3700272,
+   "United States": 25503621
+ },
+ {
+   "dateFor": "2021-01-27",
+   "China": 89373,
+   "India": 10701193,
+   "Indonesia": 1024298,
+   "Italy": 2501147,
+   "United Kingdom": 3725641,
+   "United States": 25657566
+ },
+ {
+   "dateFor": "2021-01-28",
+   "China": 89425,
+   "India": 10720048,
+   "Indonesia": 1037993,
+   "Italy": 2515507,
+   "United Kingdom": 3754452,
+   "United States": 25826176
+ },
+ {
+   "dateFor": "2021-01-29",
+   "China": 89477,
+   "India": 10733130,
+   "Indonesia": 1051795,
+   "Italy": 2529070,
+   "United Kingdom": 3783597,
+   "United States": 25992744
+ },
+ {
+   "dateFor": "2021-01-30",
+   "China": 89569,
+   "India": 10746174,
+   "Indonesia": 1066313,
+   "Italy": 2541783,
+   "United Kingdom": 3806997,
+   "United States": 26135056
+ },
+ {
+   "dateFor": "2021-01-31",
+   "China": 89611,
+   "India": 10757610,
+   "Indonesia": 1078314,
+   "Italy": 2553032,
+   "United Kingdom": 3828187,
+   "United States": 26247053
+ },
+ {
+   "dateFor": "2021-02-01",
+   "China": 89641,
+   "India": 10766245,
+   "Indonesia": 1089308,
+   "Italy": 2560957,
+   "United Kingdom": 3846855,
+   "United States": 26382255
+ },
+ {
+   "dateFor": "2021-02-02",
+   "China": 89666,
+   "India": 10777284,
+   "Indonesia": 1099687,
+   "Italy": 2570608,
+   "United Kingdom": 3863761,
+   "United States": 26497588
+ },
+ {
+   "dateFor": "2021-02-03",
+   "China": 89696,
+   "India": 10790183,
+   "Indonesia": 1111671,
+   "Italy": 2583790,
+   "United Kingdom": 3882976,
+   "United States": 26619229
+ },
+ {
+   "dateFor": "2021-02-04",
+   "China": 89716,
+   "India": 10802591,
+   "Indonesia": 1123105,
+   "Italy": 2597446,
+   "United Kingdom": 3903710,
+   "United States": 26743204
+ },
+ {
+   "dateFor": "2021-02-05",
+   "China": 89729,
+   "India": 10814304,
+   "Indonesia": 1134854,
+   "Italy": 2611659,
+   "United Kingdom": 3922914,
+   "United States": 26877601
+ },
+ {
+   "dateFor": "2021-02-06",
+   "China": 89740,
+   "India": 10826363,
+   "Indonesia": 1147010,
+   "Italy": 2625098,
+   "United Kingdom": 3941277,
+   "United States": 26981588
+ },
+ {
+   "dateFor": "2021-02-07",
+   "China": 89754,
+   "India": 10838194,
+   "Indonesia": 1157837,
+   "Italy": 2636738,
+   "United Kingdom": 3957181,
+   "United States": 27071236
+ },
+ {
+   "dateFor": "2021-02-08",
+   "China": 89768,
+   "India": 10847304,
+   "Indonesia": 1166079,
+   "Italy": 2644707,
+   "United Kingdom": 3971319,
+   "United States": 27161551
+ },
+ {
+   "dateFor": "2021-02-09",
+   "China": 89782,
+   "India": 10858371,
+   "Indonesia": 1174779,
+   "Italy": 2655319,
+   "United Kingdom": 3983760,
+   "United States": 27257183
+ },
+ {
+   "dateFor": "2021-02-10",
+   "China": 89784,
+   "India": 10871294,
+   "Indonesia": 1183555,
+   "Italy": 2668266,
+   "United Kingdom": 3996837,
+   "United States": 27352360
+ },
+ {
+   "dateFor": "2021-02-11",
+   "China": 89796,
+   "India": 10880603,
+   "Indonesia": 1191990,
+   "Italy": 2683403,
+   "United Kingdom": 4010380,
+   "United States": 27458120
+ },
+ {
+   "dateFor": "2021-02-12",
+   "China": 89804,
+   "India": 10892746,
+   "Indonesia": 1201859,
+   "Italy": 2697296,
+   "United Kingdom": 4025578,
+   "United States": 27557758
+ },
+ {
+   "dateFor": "2021-02-13",
+   "China": 89811,
+   "India": 10904940,
+   "Indonesia": 1210703,
+   "Italy": 2710819,
+   "United Kingdom": 4038933,
+   "United States": 27644880
+ },
+ {
+   "dateFor": "2021-02-14",
+   "China": 89820,
+   "India": 10916589,
+   "Indonesia": 1217468,
+   "Italy": 2721879,
+   "United Kingdom": 4049924,
+   "United States": 27709901
+ },
+ {
+   "dateFor": "2021-02-15",
+   "China": 89836,
+   "India": 10925710,
+   "Indonesia": 1223930,
+   "Italy": 2729223,
+   "United Kingdom": 4059700,
+   "United States": 27764087
+ },
+ {
+   "dateFor": "2021-02-16",
+   "China": 89843,
+   "India": 10937320,
+   "Indonesia": 1233959,
+   "Italy": 2739591,
+   "United Kingdom": 4070336,
+   "United States": 27826806
+ },
+ {
+   "dateFor": "2021-02-17",
+   "China": 89854,
+   "India": 10950201,
+   "Indonesia": 1243646,
+   "Italy": 2751657,
+   "United Kingdom": 4083096,
+   "United States": 27896924
+ },
+ {
+   "dateFor": "2021-02-18",
+   "China": 89864,
+   "India": 10963394,
+   "Indonesia": 1252685,
+   "Italy": 2765412,
+   "United Kingdom": 4095191,
+   "United States": 27966848
+ },
+ {
+   "dateFor": "2021-02-19",
+   "China": 89872,
+   "India": 10977387,
+   "Indonesia": 1263299,
+   "Italy": 2780882,
+   "United Kingdom": 4107290,
+   "United States": 28046145
+ },
+ {
+   "dateFor": "2021-02-20",
+   "China": 89879,
+   "India": 10991651,
+   "Indonesia": 1271353,
+   "Italy": 2795796,
+   "United Kingdom": 4117743,
+   "United States": 28117670
+ },
+ {
+   "dateFor": "2021-02-21",
+   "China": 89890,
+   "India": 11005850,
+   "Indonesia": 1278653,
+   "Italy": 2809246,
+   "United Kingdom": 4127578,
+   "United States": 28174750
+ },
+ {
+   "dateFor": "2021-02-22",
+   "China": 89900,
+   "India": 11016434,
+   "Indonesia": 1288833,
+   "Italy": 2818863,
+   "United Kingdom": 4138237,
+   "United States": 28230970
+ },
+ {
+   "dateFor": "2021-02-23",
+   "China": 89912,
+   "India": 11030176,
+   "Indonesia": 1298608,
+   "Italy": 2832162,
+   "United Kingdom": 4146760,
+   "United States": 28303233
+ },
+ {
+   "dateFor": "2021-02-24",
+   "China": 89919,
+   "India": 11046914,
+   "Indonesia": 1306141,
+   "Italy": 2848564,
+   "United Kingdom": 4156707,
+   "United States": 28377965
+ },
+ {
+   "dateFor": "2021-02-25",
+   "China": 89925,
+   "India": 11063491,
+   "Indonesia": 1314634,
+   "Italy": 2868435,
+   "United Kingdom": 4166727,
+   "United States": 28455466
+ },
+ {
+   "dateFor": "2021-02-26",
+   "China": 89935,
+   "India": 11079979,
+   "Indonesia": 1322866,
+   "Italy": 2888923,
+   "United Kingdom": 4175315,
+   "United States": 28532812
+ },
+ {
+   "dateFor": "2021-02-27",
+   "China": 89941,
+   "India": 11096731,
+   "Indonesia": 1329074,
+   "Italy": 2907825,
+   "United Kingdom": 4182772,
+   "United States": 28597387
+ },
+ {
+   "dateFor": "2021-02-28",
+   "China": 89960,
+   "India": 11112241,
+   "Indonesia": 1334634,
+   "Italy": 2925265,
+   "United Kingdom": 4188827,
+   "United States": 28648744
+ },
+ {
+   "dateFor": "2021-03-01",
+   "China": 89971,
+   "India": 11124527,
+   "Indonesia": 1341314,
+   "Italy": 2938371,
+   "United Kingdom": 4194289,
+   "United States": 28706973
+ },
+ {
+   "dateFor": "2021-03-02",
+   "China": 89981,
+   "India": 11139516,
+   "Indonesia": 1347026,
+   "Italy": 2955434,
+   "United Kingdom": 4200700,
+   "United States": 28764033
+ },
+ {
+   "dateFor": "2021-03-03",
+   "China": 89991,
+   "India": 11156923,
+   "Indonesia": 1353834,
+   "Italy": 2976274,
+   "United Kingdom": 4207120,
+   "United States": 28831226
+ },
+ {
+   "dateFor": "2021-03-04",
+   "China": 90000,
+   "India": 11173761,
+   "Indonesia": 1361098,
+   "Italy": 2999119,
+   "United Kingdom": 4213764,
+   "United States": 28899277
+ },
+ {
+   "dateFor": "2021-03-05",
+   "China": 90010,
+   "India": 11192045,
+   "Indonesia": 1368069,
+   "Italy": 3023129,
+   "United Kingdom": 4219788,
+   "United States": 28965728
+ },
+ {
+   "dateFor": "2021-03-06",
+   "China": 90023,
+   "India": 11210799,
+   "Indonesia": 1373836,
+   "Italy": 3046762,
+   "United Kingdom": 4225906,
+   "United States": 29023931
+ },
+ {
+   "dateFor": "2021-03-07",
+   "China": 90042,
+   "India": 11229398,
+   "Indonesia": 1379662,
+   "Italy": 3067486,
+   "United Kingdom": 4231166,
+   "United States": 29064938
+ },
+ {
+   "dateFor": "2021-03-08",
+   "China": 90050,
+   "India": 11244786,
+   "Indonesia": 1386556,
+   "Italy": 3081368,
+   "United Kingdom": 4235989,
+   "United States": 29109974
+ },
+ {
+   "dateFor": "2021-03-09",
+   "China": 90055,
+   "India": 11262707,
+   "Indonesia": 1392945,
+   "Italy": 3101093,
+   "United Kingdom": 4241858,
+   "United States": 29167616
+ },
+ {
+   "dateFor": "2021-03-10",
+   "China": 90066,
+   "India": 11285561,
+   "Indonesia": 1398578,
+   "Italy": 3123368,
+   "United Kingdom": 4247879,
+   "United States": 29225536
+ },
+ {
+   "dateFor": "2021-03-11",
+   "China": 90075,
+   "India": 11308846,
+   "Indonesia": 1403722,
+   "Italy": 3149017,
+   "United Kingdom": 4254714,
+   "United States": 29288010
+ },
+ {
+   "dateFor": "2021-03-12",
+   "China": 90082,
+   "India": 11333728,
+   "Indonesia": 1410134,
+   "Italy": 3175807,
+   "United Kingdom": 4261398,
+   "United States": 29349533
+ },
+ {
+   "dateFor": "2021-03-13",
+   "China": 90092,
+   "India": 11359048,
+   "Indonesia": 1414741,
+   "Italy": 3201838,
+   "United Kingdom": 4267015,
+   "United States": 29402465
+ },
+ {
+   "dateFor": "2021-03-14",
+   "China": 90097,
+   "India": 11385339,
+   "Indonesia": 1419455,
+   "Italy": 3223142,
+   "United Kingdom": 4271710,
+   "United States": 29440686
+ },
+ {
+   "dateFor": "2021-03-15",
+   "China": 90110,
+   "India": 11409831,
+   "Indonesia": 1425044,
+   "Italy": 3238394,
+   "United Kingdom": 4276840,
+   "United States": 29497352
+ },
+ {
+   "dateFor": "2021-03-16",
+   "China": 90114,
+   "India": 11438734,
+   "Indonesia": 1430458,
+   "Italy": 3258770,
+   "United Kingdom": 4282203,
+   "United States": 29551309
+ },
+ {
+   "dateFor": "2021-03-17",
+   "China": 90120,
+   "India": 11474605,
+   "Indonesia": 1437283,
+   "Italy": 3281810,
+   "United Kingdom": 4287996,
+   "United States": 29610445
+ },
+ {
+   "dateFor": "2021-03-18",
+   "China": 90131,
+   "India": 11514331,
+   "Indonesia": 1443853,
+   "Italy": 3306711,
+   "United Kingdom": 4294328,
+   "United States": 29670983
+ },
+ {
+   "dateFor": "2021-03-19",
+   "China": 90135,
+   "India": 11555284,
+   "Indonesia": 1450132,
+   "Italy": 3332418,
+   "United Kingdom": 4299200,
+   "United States": 29732612
+ },
+ {
+   "dateFor": "2021-03-20",
+   "China": 90147,
+   "India": 11599130,
+   "Indonesia": 1455788,
+   "Italy": 3356331,
+   "United Kingdom": 4304839,
+   "United States": 29787986
+ },
+ {
+   "dateFor": "2021-03-21",
+   "China": 90154,
+   "India": 11646081,
+   "Indonesia": 1460184,
+   "Italy": 3376376,
+   "United Kingdom": 4310195,
+   "United States": 29821754
+ },
+ {
+   "dateFor": "2021-03-22",
+   "China": 90163,
+   "India": 11686796,
+   "Indonesia": 1465928,
+   "Italy": 3400877,
+   "United Kingdom": 4315602,
+   "United States": 29873347
+ },
+ {
+   "dateFor": "2021-03-23",
+   "China": 90173,
+   "India": 11734058,
+   "Indonesia": 1471225,
+   "Italy": 3419616,
+   "United Kingdom": 4321019,
+   "United States": 29926950
+ },
+ {
+   "dateFor": "2021-03-24",
+   "China": 90184,
+   "India": 11787534,
+   "Indonesia": 1476452,
+   "Italy": 3440862,
+   "United Kingdom": 4326645,
+   "United States": 30013910
+ },
+ {
+   "dateFor": "2021-03-25",
+   "China": 90195,
+   "India": 11846652,
+   "Indonesia": 1482559,
+   "Italy": 3464543,
+   "United Kingdom": 4332922,
+   "United States": 30081375
+ },
+ {
+   "dateFor": "2021-03-26",
+   "China": 90207,
+   "India": 11908910,
+   "Indonesia": 1487541,
+   "Italy": 3488619,
+   "United Kingdom": 4339157,
+   "United States": 30158696
+ },
+ {
+   "dateFor": "2021-03-27",
+   "China": 90218,
+   "India": 11971624,
+   "Indonesia": 1492002,
+   "Italy": 3512453,
+   "United Kingdom": 4343066,
+   "United States": 30221396
+ },
+ {
+   "dateFor": "2021-03-28",
+   "China": 90230,
+   "India": 12039644,
+   "Indonesia": 1496085,
+   "Italy": 3532057,
+   "United Kingdom": 4347013,
+   "United States": 30264493
+ },
+ {
+   "dateFor": "2021-03-29",
+   "China": 90238,
+   "India": 12095855,
+   "Indonesia": 1501093,
+   "Italy": 3544957,
+   "United Kingdom": 4351796,
+   "United States": 30333922
+ },
+ {
+   "dateFor": "2021-03-30",
+   "China": 90249,
+   "India": 12149335,
+   "Indonesia": 1505775,
+   "Italy": 3561012,
+   "United Kingdom": 4355867,
+   "United States": 30395171
+ },
+ {
+   "dateFor": "2021-03-31",
+   "China": 90265,
+   "India": 12221665,
+   "Indonesia": 1511712,
+   "Italy": 3584899,
+   "United Kingdom": 4359982,
+   "United States": 30462210
+ },
+ {
+   "dateFor": "2021-04-01",
+   "China": 90274,
+   "India": 12303131,
+   "Indonesia": 1517854,
+   "Italy": 3607083,
+   "United Kingdom": 4364547,
+   "United States": 30541255
+ },
+ {
+   "dateFor": "2021-04-02",
+   "China": 90300,
+   "India": 12392260,
+   "Indonesia": 1523179,
+   "Italy": 3629000,
+   "United Kingdom": 4367969,
+   "United States": 30611086
+ },
+ {
+   "dateFor": "2021-04-03",
+   "China": 90320,
+   "India": 12485509,
+   "Indonesia": 1527524,
+   "Italy": 3650247,
+   "United Kingdom": 4371393,
+   "United States": 30674153
+ },
+ {
+   "dateFor": "2021-04-04",
+   "China": 90353,
+   "India": 12589067,
+   "Indonesia": 1534255,
+   "Italy": 3668264,
+   "United Kingdom": 4373798,
+   "United States": 30709125
+ },
+ {
+   "dateFor": "2021-04-05",
+   "China": 90377,
+   "India": 12686049,
+   "Indonesia": 1537967,
+   "Italy": 3678944,
+   "United Kingdom": 4376629,
+   "United States": 30786804
+ },
+ {
+   "dateFor": "2021-04-06",
+   "China": 90389,
+   "India": 12801785,
+   "Indonesia": 1542516,
+   "Italy": 3686707,
+   "United Kingdom": 4379033,
+   "United States": 30847348
+ },
+ {
+   "dateFor": "2021-04-07",
+   "China": 90414,
+   "India": 12928574,
+   "Indonesia": 1547376,
+   "Italy": 3700393,
+   "United Kingdom": 4381830,
+   "United States": 30922386
+ },
+ {
+   "dateFor": "2021-04-08",
+   "China": 90435,
+   "India": 13060542,
+   "Indonesia": 1552880,
+   "Italy": 3717602,
+   "United Kingdom": 4384954,
+   "United States": 31002264
+ },
+ {
+   "dateFor": "2021-04-09",
+   "China": 90449,
+   "India": 13205926,
+   "Indonesia": 1558145,
+   "Italy": 3736526,
+   "United Kingdom": 4380167,
+   "United States": 31084962
+ },
+ {
+   "dateFor": "2021-04-10",
+   "China": 90459,
+   "India": 13358805,
+   "Indonesia": 1562868,
+   "Italy": 3754077,
+   "United Kingdom": 4382880,
+   "United States": 31151497
+ },
+ {
+   "dateFor": "2021-04-11",
+   "China": 90475,
+   "India": 13527717,
+   "Indonesia": 1566995,
+   "Italy": 3769814,
+   "United Kingdom": 4384610,
+   "United States": 31197877
+ },
+ {
+   "dateFor": "2021-04-12",
+   "China": 90484,
+   "India": 13689453,
+   "Indonesia": 1571824,
+   "Italy": 3779594,
+   "United Kingdom": 4388296,
+   "United States": 31268107
+ },
+ {
+   "dateFor": "2021-04-13",
+   "China": 90496,
+   "India": 13873825,
+   "Indonesia": 1577526,
+   "Italy": 3793033,
+   "United Kingdom": 4390801,
+   "United States": 31345985
+ },
+ {
+   "dateFor": "2021-04-14",
+   "China": 90506,
+   "India": 14074564,
+   "Indonesia": 1583182,
+   "Italy": 3809193,
+   "United Kingdom": 4393330,
+   "United States": 31421360
+ },
+ {
+   "dateFor": "2021-04-15",
+   "China": 90517,
+   "India": 14291917,
+   "Indonesia": 1589359,
+   "Italy": 3826156,
+   "United Kingdom": 4396096,
+   "United States": 31495649
+ },
+ {
+   "dateFor": "2021-04-16",
+   "China": 90532,
+   "India": 14526609,
+   "Indonesia": 1594722,
+   "Italy": 3842079,
+   "United Kingdom": 4398903,
+   "United States": 31575640
+ },
+ {
+   "dateFor": "2021-04-17",
+   "China": 90548,
+   "India": 14788003,
+   "Indonesia": 1599763,
+   "Italy": 3857443,
+   "United Kingdom": 4401176,
+   "United States": 31628013
+ },
+ {
+   "dateFor": "2021-04-18",
+   "China": 90559,
+   "India": 15061805,
+   "Indonesia": 1604348,
+   "Italy": 3870131,
+   "United Kingdom": 4403060,
+   "United States": 31670031
+ },
+ {
+   "dateFor": "2021-04-19",
+   "China": 90569,
+   "India": 15320972,
+   "Indonesia": 1609300,
+   "Italy": 3878994,
+   "United Kingdom": 4406114,
+   "United States": 31737964
+ },
+ {
+   "dateFor": "2021-04-20",
+   "China": 90590,
+   "India": 15616130,
+   "Indonesia": 1614849,
+   "Italy": 3891063,
+   "United Kingdom": 4408644,
+   "United States": 31799237
+ },
+ {
+   "dateFor": "2021-04-21",
+   "China": 90596,
+   "India": 15930774,
+   "Indonesia": 1620569,
+   "Italy": 3904899,
+   "United Kingdom": 4411068,
+   "United States": 31862094
+ },
+ {
+   "dateFor": "2021-04-22",
+   "China": 90615,
+   "India": 16263695,
+   "Indonesia": 1626812,
+   "Italy": 3920945,
+   "United Kingdom": 4413834,
+   "United States": 31929351
+ },
+ {
+   "dateFor": "2021-04-23",
+   "China": 90624,
+   "India": 16610481,
+   "Indonesia": 1632248,
+   "Italy": 3935703,
+   "United Kingdom": 4416588,
+   "United States": 31991750
+ },
+ {
+   "dateFor": "2021-04-24",
+   "China": 90637,
+   "India": 16960172,
+   "Indonesia": 1636792,
+   "Italy": 3949517,
+   "United Kingdom": 4418710,
+   "United States": 32045113
+ },
+ {
+   "dateFor": "2021-04-25",
+   "China": 90648,
+   "India": 17313163,
+   "Indonesia": 1641194,
+   "Italy": 3962674,
+   "United Kingdom": 4420443,
+   "United States": 32077178
+ },
+ {
+   "dateFor": "2021-04-26",
+   "China": 90659,
+   "India": 17636186,
+   "Indonesia": 1647138,
+   "Italy": 3971114,
+   "United Kingdom": 4422562,
+   "United States": 32124869
+ },
+ {
+   "dateFor": "2021-04-27",
+   "China": 90671,
+   "India": 17997113,
+   "Indonesia": 1651794,
+   "Italy": 3981512,
+   "United Kingdom": 4425259,
+   "United States": 32175725
+ },
+ {
+   "dateFor": "2021-04-28",
+   "China": 90691,
+   "India": 18376421,
+   "Indonesia": 1657035,
+   "Italy": 3994894,
+   "United Kingdom": 4427390,
+   "United States": 32230850
+ },
+ {
+   "dateFor": "2021-04-29",
+   "China": 90704,
+   "India": 18762976,
+   "Indonesia": 1662868,
+   "Italy": 4009208,
+   "United Kingdom": 4429849,
+   "United States": 32289049
+ },
+ {
+   "dateFor": "2021-04-30",
+   "China": 90720,
+   "India": 19164969,
+   "Indonesia": 1668368,
+   "Italy": 4022653,
+   "United Kingdom": 4432246,
+   "United States": 32346971
+ },
+ {
+   "dateFor": "2021-05-01",
+   "China": 90735,
+   "India": 19557457,
+   "Indonesia": 1672880,
+   "Italy": 4035617,
+   "United Kingdom": 4434157,
+   "United States": 32392274
+ },
+ {
+   "dateFor": "2021-05-02",
+   "China": 90746,
+   "India": 19925517,
+   "Indonesia": 1677274,
+   "Italy": 4044762,
+   "United Kingdom": 4435831,
+   "United States": 32421641
+ },
+ {
+   "dateFor": "2021-05-03",
+   "China": 90763,
+   "India": 20282833,
+   "Indonesia": 1682004,
+   "Italy": 4050708,
+   "United Kingdom": 4437505,
+   "United States": 32472201
+ },
+ {
+   "dateFor": "2021-05-04",
+   "China": 90770,
+   "India": 20664979,
+   "Indonesia": 1686373,
+   "Italy": 4059821,
+   "United Kingdom": 4439489,
+   "United States": 32512934
+ },
+ {
+   "dateFor": "2021-05-05",
+   "China": 90775,
+   "India": 21077410,
+   "Indonesia": 1691658,
+   "Italy": 4070400,
+   "United Kingdom": 4441644,
+   "United States": 32557669
+ },
+ {
+   "dateFor": "2021-05-06",
+   "China": 90788,
+   "India": 21491598,
+   "Indonesia": 1697305,
+   "Italy": 4082198,
+   "United Kingdom": 4444262,
+   "United States": 32605183
+ },
+ {
+   "dateFor": "2021-05-07",
+   "China": 90795,
+   "India": 21892676,
+   "Indonesia": 1703632,
+   "Italy": 4092747,
+   "United Kingdom": 4446752,
+   "United States": 32652472
+ },
+ {
+   "dateFor": "2021-05-08",
+   "China": 90807,
+   "India": 22296081,
+   "Indonesia": 1709762,
+   "Italy": 4102921,
+   "United Kingdom": 4448808,
+   "United States": 32686965
+ },
+ {
+   "dateFor": "2021-05-09",
+   "China": 90818,
+   "India": 22662575,
+   "Indonesia": 1713684,
+   "Italy": 4111210,
+   "United Kingdom": 4450578,
+   "United States": 32708357
+ },
+ {
+   "dateFor": "2021-05-10",
+   "China": 90832,
+   "India": 22992517,
+   "Indonesia": 1718575,
+   "Italy": 4116287,
+   "United Kingdom": 4452956,
+   "United States": 32745255
+ },
+ {
+   "dateFor": "2021-05-11",
+   "China": 90848,
+   "India": 23340938,
+   "Indonesia": 1723596,
+   "Italy": 4123230,
+   "United Kingdom": 4455446,
+   "United States": 32778906
+ },
+ {
+   "dateFor": "2021-05-12",
+   "China": 90857,
+   "India": 23703665,
+   "Indonesia": 1728204,
+   "Italy": 4131078,
+   "United Kingdom": 4457742,
+   "United States": 32814784
+ },
+ {
+   "dateFor": "2021-05-13",
+   "China": 90864,
+   "India": 24046809,
+   "Indonesia": 1731652,
+   "Italy": 4139160,
+   "United Kingdom": 4460405,
+   "United States": 32852871
+ },
+ {
+   "dateFor": "2021-05-14",
+   "China": 90878,
+   "India": 24372907,
+   "Indonesia": 1734285,
+   "Italy": 4146722,
+   "United Kingdom": 4462603,
+   "United States": 32895169
+ },
+ {
+   "dateFor": "2021-05-15",
+   "China": 90896,
+   "India": 24684077,
+   "Indonesia": 1736670,
+   "Italy": 4153374,
+   "United Kingdom": 4464663,
+   "United States": 32923982
+ },
+ {
+   "dateFor": "2021-05-16",
+   "China": 90922,
+   "India": 24965463,
+   "Indonesia": 1739750,
+   "Italy": 4159122,
+   "United Kingdom": 4466589,
+   "United States": 32940846
+ },
+ {
+   "dateFor": "2021-05-17",
+   "China": 90944,
+   "India": 25228996,
+   "Indonesia": 1744045,
+   "Italy": 4162576,
+   "United Kingdom": 4468582,
+   "United States": 32969512
+ },
+ {
+   "dateFor": "2021-05-18",
+   "China": 90958,
+   "India": 25496330,
+   "Indonesia": 1748230,
+   "Italy": 4167025,
+   "United Kingdom": 4466220,
+   "United States": 32997331
+ },
+ {
+   "dateFor": "2021-05-19",
+   "China": 90970,
+   "India": 25772440,
+   "Indonesia": 1753101,
+   "Italy": 4172525,
+   "United Kingdom": 4468366,
+   "United States": 33026624
+ },
+ {
+   "dateFor": "2021-05-20",
+   "China": 90994,
+   "India": 26031991,
+   "Indonesia": 1758898,
+   "Italy": 4178261,
+   "United Kingdom": 4471065,
+   "United States": 33056765
+ },
+ {
+   "dateFor": "2021-05-21",
+   "China": 91004,
+   "India": 26289290,
+   "Indonesia": 1764644,
+   "Italy": 4183476,
+   "United Kingdom": 4473773,
+   "United States": 33085106
+ },
+ {
+   "dateFor": "2021-05-22",
+   "China": 91023,
+   "India": 26530132,
+   "Indonesia": 1769940,
+   "Italy": 4188190,
+   "United Kingdom": 4476297,
+   "United States": 33104884
+ },
+ {
+   "dateFor": "2021-05-23",
+   "China": 91041,
+   "India": 26752447,
+   "Indonesia": 1775220,
+   "Italy": 4192183,
+   "United Kingdom": 4478390,
+   "United States": 33117737
+ },
+ {
+   "dateFor": "2021-05-24",
+   "China": 91057,
+   "India": 26948874,
+   "Indonesia": 1781127,
+   "Italy": 4194672,
+   "United Kingdom": 4480760,
+   "United States": 33143662
+ },
+ {
+   "dateFor": "2021-05-25",
+   "China": 91070,
+   "India": 27157795,
+   "Indonesia": 1786187,
+   "Italy": 4197892,
+   "United Kingdom": 4483177,
+   "United States": 33166418
+ }
+]
