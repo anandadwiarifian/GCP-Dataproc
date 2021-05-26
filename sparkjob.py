@@ -38,15 +38,12 @@ windowSpec = Window.partitionBy().orderBy(F.col('dateFor').desc())
 # for each country column in the columns list
 for country in countryCols:
     # add a new column, countrynameDiff, to the df containing the same numbers but shifted up by one using "lead"
-    # E.g.: if a column X contains the numbers [1, 2, 3], applying the "lead" window function, with 1 as argument, will
-    # shift everything up by 1 and the new XDiff column will contain [2, 3, none]
     df = df.withColumn(f'{country}Diff', lead(country, 1).over(windowSpec))
-    # add the subtraction to the list with the condition that if the calculated value is lower than 0, then save 0
+
     # this saves the subtraction formula in the list, not the result of the subtraction.
-    # the header of the subtraction result column will be the same as the "country" by applying "alias"
     colDiffs.append(F.when((df[country] - df[f'{country}Diff']) < 0, 0)
                     .otherwise(df[country] - df[f'{country}Diff']).alias(country))
-# select the dateFor column and calculate the subtractions in the df, returning a new dataframe with the results
+
 result = df.select('dateFor', *colDiffs).fillna(0)
 
 result.write.format("bigquery") \
